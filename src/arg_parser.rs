@@ -14,16 +14,21 @@ use clap::{ArgEnum, Parser};
 pub struct Args {
     /// Do not use gitignroe
     #[clap(short = 'n', long = "no-ignore")]
-    no_gitignore: bool,
+    pub no_gitignore: bool,
 
     /// List of files, extensions or directories to ignore.
     /// You can pass list as a single comma-separated list,
     /// or by using the flag multiple times.
     #[clap(short, long)]
-    ignore: Option<Vec<String>>,
+    pub ignore: Option<Vec<String>>,
 
     /// List of file types to include in the summary.
     /// Does not support passing as comma-separated list.
     #[clap(short, long, arg_enum)]
-    types: Option<Vec<FileType>>,
+    pub types: Option<Vec<FileType>>,
+
+
+    /// Directory of the project
+    #[clap(default_value_t = String::from("."))]
+    pub dir: String,
 }
