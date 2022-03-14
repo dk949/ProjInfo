@@ -1,0 +1,16 @@
+use crate::arg_parser::FileType;
+use lazy_static::lazy_static;
+use std::collections::HashMap;
+
+#[derive(Debug)]
+pub struct Lang {
+    pub name: &'static str,
+    pub category: FileType,
+}
+
+lazy_static! {
+    #[rustfmt::skip]
+    pub static ref LANGS: HashMap<&'static str, Lang> = HashMap::from([
+// INSERT
+    ]);
+}

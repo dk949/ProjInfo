@@ -1,0 +1,3538 @@
+{
+  "1": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "2": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "3": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "4": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "5": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "6": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "7": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "8": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "9": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "1in": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "1m": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "1x": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "3in": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "3m": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "3qt": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "3x": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "4th": {
+    "name": "Forth",
+    "category": "programming"
+  },
+  "6pl": {
+    "name": "Perl6",
+    "category": "programming"
+  },
+  "6pm": {
+    "name": "Perl6",
+    "category": "programming"
+  },
+  "E": {
+    "name": "E",
+    "category": "programming"
+  },
+  "ML": {
+    "name": "Standard ML",
+    "category": "programming"
+  },
+  "_coffee": {
+    "name": "CoffeeScript",
+    "category": "programming"
+  },
+  "_js": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "_ls": {
+    "name": "LiveScript",
+    "category": "programming"
+  },
+  "a51": {
+    "name": "Assembly",
+    "category": "programming"
+  },
+  "abap": {
+    "name": "ABAP",
+    "category": "programming"
+  },
+  "ada": {
+    "name": "Ada",
+    "category": "programming"
+  },
+  "adb": {
+    "name": "Ada",
+    "category": "programming"
+  },
+  "ado": {
+    "name": "Stata",
+    "category": "programming"
+  },
+  "adoc": {
+    "name": "AsciiDoc",
+    "category": "prose"
+  },
+  "adp": {
+    "name": "Tcl",
+    "category": "programming"
+  },
+  "ads": {
+    "name": "Ada",
+    "category": "programming"
+  },
+  "agda": {
+    "name": "Agda",
+    "category": "programming"
+  },
+  "ahk": {
+    "name": "AutoHotkey",
+    "category": "programming"
+  },
+  "ahkl": {
+    "name": "AutoHotkey",
+    "category": "programming"
+  },
+  "aj": {
+    "name": "AspectJ",
+    "category": "programming"
+  },
+  "al": {
+    "name": "Perl",
+    "category": "programming"
+  },
+  "als": {
+    "name": "Alloy",
+    "category": "programming"
+  },
+  "ampl": {
+    "name": "AMPL",
+    "category": "programming"
+  },
+  "anim": {
+    "name": "Unity3D Asset",
+    "category": "data"
+  },
+  "ant": {
+    "name": "XML",
+    "category": "data"
+  },
+  "apacheconf": {
+    "name": "ApacheConf",
+    "category": "markup"
+  },
+  "apib": {
+    "name": "API Blueprint",
+    "category": "markup"
+  },
+  "apl": {
+    "name": "APL",
+    "category": "programming"
+  },
+  "applescript": {
+    "name": "AppleScript",
+    "category": "programming"
+  },
+  "arc": {
+    "name": "Arc",
+    "category": "programming"
+  },
+  "arpa": {
+    "name": "DNS Zone",
+    "category": "data"
+  },
+  "as": {
+    "name": "ActionScript",
+    "category": "programming"
+  },
+  "asax": {
+    "name": "ASP",
+    "category": "programming"
+  },
+  "asc": {
+    "name": "AGS Script",
+    "category": "programming"
+  },
+  "asciidoc": {
+    "name": "AsciiDoc",
+    "category": "prose"
+  },
+  "ascx": {
+    "name": "ASP",
+    "category": "programming"
+  },
+  "asd": {
+    "name": "Common Lisp",
+    "category": "programming"
+  },
+  "ash": {
+    "name": "AGS Script",
+    "category": "programming"
+  },
+  "ashx": {
+    "name": "ASP",
+    "category": "programming"
+  },
+  "asm": {
+    "name": "Assembly",
+    "category": "programming"
+  },
+  "asmx": {
+    "name": "ASP",
+    "category": "programming"
+  },
+  "asp": {
+    "name": "ASP",
+    "category": "programming"
+  },
+  "aspx": {
+    "name": "ASP",
+    "category": "programming"
+  },
+  "asset": {
+    "name": "Unity3D Asset",
+    "category": "data"
+  },
+  "au3": {
+    "name": "AutoIt",
+    "category": "programming"
+  },
+  "aug": {
+    "name": "Augeas",
+    "category": "programming"
+  },
+  "auk": {
+    "name": "Awk",
+    "category": "programming"
+  },
+  "aux": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "aw": {
+    "name": "PHP",
+    "category": "programming"
+  },
+  "awk": {
+    "name": "Awk",
+    "category": "programming"
+  },
+  "axd": {
+    "name": "ASP",
+    "category": "programming"
+  },
+  "axi": {
+    "name": "NetLinx",
+    "category": "programming"
+  },
+  "axml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "axs": {
+    "name": "NetLinx",
+    "category": "programming"
+  },
+  "b": {
+    "name": "Brainfuck",
+    "category": "programming"
+  },
+  "bas": {
+    "name": "Visual Basic",
+    "category": "programming"
+  },
+  "bash": {
+    "name": "Shell",
+    "category": "programming"
+  },
+  "bat": {
+    "name": "Batchfile",
+    "category": "programming"
+  },
+  "bats": {
+    "name": "Shell",
+    "category": "programming"
+  },
+  "bb": {
+    "name": "BlitzBasic",
+    "category": "programming"
+  },
+  "bbx": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "befunge": {
+    "name": "Befunge",
+    "category": "programming"
+  },
+  "bf": {
+    "name": "Brainfuck",
+    "category": "programming"
+  },
+  "bib": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "bison": {
+    "name": "Bison",
+    "category": "programming"
+  },
+  "bmx": {
+    "name": "BlitzMax",
+    "category": "programming"
+  },
+  "bones": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "boo": {
+    "name": "Boo",
+    "category": "programming"
+  },
+  "boot": {
+    "name": "Clojure",
+    "category": "programming"
+  },
+  "brd": {
+    "name": "Eagle",
+    "category": "markup"
+  },
+  "bro": {
+    "name": "Bro",
+    "category": "programming"
+  },
+  "brs": {
+    "name": "Brightscript",
+    "category": "programming"
+  },
+  "bsv": {
+    "name": "Bluespec",
+    "category": "programming"
+  },
+  "builder": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "bzl": {
+    "name": "Python",
+    "category": "programming"
+  },
+  "c": {
+    "name": "C",
+    "category": "programming"
+  },
+  "c++": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "c++-objdump": {
+    "name": "Cpp-ObjDump",
+    "category": "data"
+  },
+  "c++objdump": {
+    "name": "Cpp-ObjDump",
+    "category": "data"
+  },
+  "c-objdump": {
+    "name": "C-ObjDump",
+    "category": "data"
+  },
+  "cake": {
+    "name": "cake",
+    "category": "programming"
+  },
+  "capnp": {
+    "name": "Cap'n Proto",
+    "category": "programming"
+  },
+  "cats": {
+    "name": "C",
+    "category": "programming"
+  },
+  "cbl": {
+    "name": "COBOL",
+    "category": "programming"
+  },
+  "cbx": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "cc": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "ccp": {
+    "name": "COBOL",
+    "category": "programming"
+  },
+  "ccxml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "cdf": {
+    "name": "Mathematica",
+    "category": "programming"
+  },
+  "ceylon": {
+    "name": "Ceylon",
+    "category": "programming"
+  },
+  "cfc": {
+    "name": "ColdFusion CFC",
+    "category": "programming"
+  },
+  "cfg": {
+    "name": "INI",
+    "category": "data"
+  },
+  "cfm": {
+    "name": "ColdFusion",
+    "category": "programming"
+  },
+  "cfml": {
+    "name": "ColdFusion",
+    "category": "programming"
+  },
+  "cgi": {
+    "name": "CGI",
+    "category": "programming"
+  },
+  "ch": {
+    "name": "Clipper",
+    "category": "programming"
+  },
+  "chpl": {
+    "name": "Chapel",
+    "category": "programming"
+  },
+  "chs": {
+    "name": "C2hs Haskell",
+    "category": "programming"
+  },
+  "cirru": {
+    "name": "Cirru",
+    "category": "programming"
+  },
+  "cjsx": {
+    "name": "CoffeeScript",
+    "category": "programming"
+  },
+  "ck": {
+    "name": "ChucK",
+    "category": "programming"
+  },
+  "cl": {
+    "name": "Lisp",
+    "category": "programming"
+  },
+  "cl2": {
+    "name": "Clojure",
+    "category": "programming"
+  },
+  "click": {
+    "name": "Click",
+    "category": "programming"
+  },
+  "clixml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "clj": {
+    "name": "Clojure",
+    "category": "programming"
+  },
+  "cljc": {
+    "name": "Clojure",
+    "category": "programming"
+  },
+  "cljs": {
+    "name": "Clojure",
+    "category": "programming"
+  },
+  "cljscm": {
+    "name": "Clojure",
+    "category": "programming"
+  },
+  "cljx": {
+    "name": "Clojure",
+    "category": "programming"
+  },
+  "clp": {
+    "name": "CLIPS",
+    "category": "programming"
+  },
+  "cls": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "clw": {
+    "name": "Clarion",
+    "category": "programming"
+  },
+  "cmake": {
+    "name": "CMake",
+    "category": "programming"
+  },
+  "cmd": {
+    "name": "Batchfile",
+    "category": "programming"
+  },
+  "cob": {
+    "name": "COBOL",
+    "category": "programming"
+  },
+  "cobol": {
+    "name": "COBOL",
+    "category": "programming"
+  },
+  "coffee": {
+    "name": "CoffeeScript",
+    "category": "programming"
+  },
+  "com": {
+    "name": "DIGITAL Command Language",
+    "category": "programming"
+  },
+  "command": {
+    "name": "Shell",
+    "category": "programming"
+  },
+  "coq": {
+    "name": "Coq",
+    "category": "programming"
+  },
+  "cp": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "cpp": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "cpp-objdump": {
+    "name": "Cpp-ObjDump",
+    "category": "data"
+  },
+  "cppobjdump": {
+    "name": "Cpp-ObjDump",
+    "category": "data"
+  },
+  "cproject": {
+    "name": "XML",
+    "category": "data"
+  },
+  "cps": {
+    "name": "Component Pascal",
+    "category": "programming"
+  },
+  "cpy": {
+    "name": "COBOL",
+    "category": "programming"
+  },
+  "cql": {
+    "name": "SQL",
+    "category": "data"
+  },
+  "cr": {
+    "name": "Crystal",
+    "category": "programming"
+  },
+  "creole": {
+    "name": "Creole",
+    "category": "prose"
+  },
+  "cs": {
+    "name": "C#",
+    "category": "programming"
+  },
+  "csh": {
+    "name": "Tcsh",
+    "category": "programming"
+  },
+  "cshtml": {
+    "name": "C#",
+    "category": "programming"
+  },
+  "csl": {
+    "name": "XML",
+    "category": "data"
+  },
+  "cson": {
+    "name": "CoffeeScript",
+    "category": "programming"
+  },
+  "csproj": {
+    "name": "XML",
+    "category": "data"
+  },
+  "css": {
+    "name": "CSS",
+    "category": "markup"
+  },
+  "csv": {
+    "name": "CSV",
+    "category": "data"
+  },
+  "csx": {
+    "name": "C#",
+    "category": "programming"
+  },
+  "ct": {
+    "name": "XML",
+    "category": "data"
+  },
+  "ctp": {
+    "name": "PHP",
+    "category": "programming"
+  },
+  "cu": {
+    "name": "Cuda",
+    "category": "programming"
+  },
+  "cuh": {
+    "name": "Cuda",
+    "category": "programming"
+  },
+  "cw": {
+    "name": "Redcode",
+    "category": "programming"
+  },
+  "cxx": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "cxx-objdump": {
+    "name": "Cpp-ObjDump",
+    "category": "data"
+  },
+  "cy": {
+    "name": "Cycript",
+    "category": "programming"
+  },
+  "d": {
+    "name": "D",
+    "category": "programming"
+  },
+  "d-objdump": {
+    "name": "D-ObjDump",
+    "category": "data"
+  },
+  "darcspatch": {
+    "name": "Darcs Patch",
+    "category": "data"
+  },
+  "dart": {
+    "name": "Dart",
+    "category": "programming"
+  },
+  "dats": {
+    "name": "ATS",
+    "category": "programming"
+  },
+  "db2": {
+    "name": "SQLPL",
+    "category": "programming"
+  },
+  "dcl": {
+    "name": "Clean",
+    "category": "programming"
+  },
+  "ddl": {
+    "name": "SQL",
+    "category": "data"
+  },
+  "decls": {
+    "name": "BlitzBasic",
+    "category": "programming"
+  },
+  "desktop": {
+    "name": "desktop",
+    "category": "data"
+  },
+  "dfm": {
+    "name": "Pascal",
+    "category": "programming"
+  },
+  "di": {
+    "name": "D",
+    "category": "programming"
+  },
+  "diff": {
+    "name": "Diff",
+    "category": "data"
+  },
+  "dita": {
+    "name": "XML",
+    "category": "data"
+  },
+  "ditamap": {
+    "name": "XML",
+    "category": "data"
+  },
+  "ditaval": {
+    "name": "XML",
+    "category": "data"
+  },
+  "djs": {
+    "name": "Dogescript",
+    "category": "programming"
+  },
+  "dlm": {
+    "name": "IDL",
+    "category": "programming"
+  },
+  "dm": {
+    "name": "DM",
+    "category": "programming"
+  },
+  "do": {
+    "name": "Stata",
+    "category": "programming"
+  },
+  "dockerfile": {
+    "name": "Dockerfile",
+    "category": "data"
+  },
+  "doh": {
+    "name": "Stata",
+    "category": "programming"
+  },
+  "dot": {
+    "name": "Graphviz (DOT)",
+    "category": "data"
+  },
+  "dotsettings": {
+    "name": "XML",
+    "category": "data"
+  },
+  "dpatch": {
+    "name": "Darcs Patch",
+    "category": "data"
+  },
+  "dpr": {
+    "name": "Pascal",
+    "category": "programming"
+  },
+  "druby": {
+    "name": "Mirah",
+    "category": "programming"
+  },
+  "dtx": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "duby": {
+    "name": "Mirah",
+    "category": "programming"
+  },
+  "dyalog": {
+    "name": "APL",
+    "category": "programming"
+  },
+  "dyl": {
+    "name": "Dylan",
+    "category": "programming"
+  },
+  "dylan": {
+    "name": "Dylan",
+    "category": "programming"
+  },
+  "e": {
+    "name": "Eiffel",
+    "category": "programming"
+  },
+  "ebuild": {
+    "name": "Gentoo Ebuild",
+    "category": "programming"
+  },
+  "ec": {
+    "name": "eC",
+    "category": "programming"
+  },
+  "ecl": {
+    "name": "ECL",
+    "category": "programming"
+  },
+  "eclass": {
+    "name": "Gentoo Eclass",
+    "category": "programming"
+  },
+  "eclxml": {
+    "name": "ECL",
+    "category": "programming"
+  },
+  "edn": {
+    "name": "edn",
+    "category": "data"
+  },
+  "eex": {
+    "name": "HTML+EEX",
+    "category": "markup"
+  },
+  "eh": {
+    "name": "eC",
+    "category": "programming"
+  },
+  "el": {
+    "name": "Emacs Lisp",
+    "category": "programming"
+  },
+  "eliom": {
+    "name": "OCaml",
+    "category": "programming"
+  },
+  "eliomi": {
+    "name": "OCaml",
+    "category": "programming"
+  },
+  "elm": {
+    "name": "Elm",
+    "category": "programming"
+  },
+  "em": {
+    "name": "EmberScript",
+    "category": "programming"
+  },
+  "emacs": {
+    "name": "Emacs Lisp",
+    "category": "programming"
+  },
+  "emberscript": {
+    "name": "EmberScript",
+    "category": "programming"
+  },
+  "epj": {
+    "name": "Ecere Projects",
+    "category": "data"
+  },
+  "eps": {
+    "name": "PostScript",
+    "category": "markup"
+  },
+  "erb": {
+    "name": "HTML+ERB",
+    "category": "markup"
+  },
+  "erl": {
+    "name": "Erlang",
+    "category": "programming"
+  },
+  "es": {
+    "name": "Erlang",
+    "category": "programming"
+  },
+  "es6": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "escript": {
+    "name": "Erlang",
+    "category": "programming"
+  },
+  "ex": {
+    "name": "Elixir",
+    "category": "programming"
+  },
+  "exs": {
+    "name": "Elixir",
+    "category": "programming"
+  },
+  "f": {
+    "name": "FORTRAN",
+    "category": "programming"
+  },
+  "f03": {
+    "name": "FORTRAN",
+    "category": "programming"
+  },
+  "f08": {
+    "name": "FORTRAN",
+    "category": "programming"
+  },
+  "f77": {
+    "name": "FORTRAN",
+    "category": "programming"
+  },
+  "f90": {
+    "name": "FORTRAN",
+    "category": "programming"
+  },
+  "f95": {
+    "name": "FORTRAN",
+    "category": "programming"
+  },
+  "factor": {
+    "name": "Factor",
+    "category": "programming"
+  },
+  "fan": {
+    "name": "Fantom",
+    "category": "programming"
+  },
+  "fancypack": {
+    "name": "Fancy",
+    "category": "programming"
+  },
+  "fcgi": {
+    "name": "Lua",
+    "category": "programming"
+  },
+  "feature": {
+    "name": "Cucumber",
+    "category": "programming"
+  },
+  "filters": {
+    "name": "XML",
+    "category": "data"
+  },
+  "fish": {
+    "name": "fish",
+    "category": "programming"
+  },
+  "flex": {
+    "name": "JFlex",
+    "category": "programming"
+  },
+  "flux": {
+    "name": "FLUX",
+    "category": "programming"
+  },
+  "for": {
+    "name": "FORTRAN",
+    "category": "programming"
+  },
+  "forth": {
+    "name": "Forth",
+    "category": "programming"
+  },
+  "fp": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "fpp": {
+    "name": "FORTRAN",
+    "category": "programming"
+  },
+  "fr": {
+    "name": "Forth",
+    "category": "programming"
+  },
+  "frag": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "frg": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "frm": {
+    "name": "Visual Basic",
+    "category": "programming"
+  },
+  "frt": {
+    "name": "Forth",
+    "category": "programming"
+  },
+  "frx": {
+    "name": "Visual Basic",
+    "category": "programming"
+  },
+  "fs": {
+    "name": "F#",
+    "category": "programming"
+  },
+  "fsh": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "fshader": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "fsi": {
+    "name": "F#",
+    "category": "programming"
+  },
+  "fsproj": {
+    "name": "XML",
+    "category": "data"
+  },
+  "fsx": {
+    "name": "F#",
+    "category": "programming"
+  },
+  "fth": {
+    "name": "Forth",
+    "category": "programming"
+  },
+  "ftl": {
+    "name": "FreeMarker",
+    "category": "programming"
+  },
+  "fun": {
+    "name": "Standard ML",
+    "category": "programming"
+  },
+  "fx": {
+    "name": "HLSL",
+    "category": "programming"
+  },
+  "fxh": {
+    "name": "HLSL",
+    "category": "programming"
+  },
+  "fxml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "fy": {
+    "name": "Fancy",
+    "category": "programming"
+  },
+  "g": {
+    "name": "G-code",
+    "category": "data"
+  },
+  "g4": {
+    "name": "ANTLR",
+    "category": "programming"
+  },
+  "gap": {
+    "name": "GAP",
+    "category": "programming"
+  },
+  "gawk": {
+    "name": "Awk",
+    "category": "programming"
+  },
+  "gco": {
+    "name": "G-code",
+    "category": "data"
+  },
+  "gcode": {
+    "name": "G-code",
+    "category": "data"
+  },
+  "gd": {
+    "name": "GDScript",
+    "category": "programming"
+  },
+  "gemspec": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "geo": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "geojson": {
+    "name": "JSON",
+    "category": "data"
+  },
+  "geom": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "gf": {
+    "name": "Grammatical Framework",
+    "category": "programming"
+  },
+  "gi": {
+    "name": "GAP",
+    "category": "programming"
+  },
+  "glade": {
+    "name": "XML",
+    "category": "data"
+  },
+  "glf": {
+    "name": "Glyph",
+    "category": "programming"
+  },
+  "glsl": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "glslv": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "gml": {
+    "name": "Game Maker Language",
+    "category": "programming"
+  },
+  "gms": {
+    "name": "GAMS",
+    "category": "programming"
+  },
+  "gnu": {
+    "name": "Gnuplot",
+    "category": "programming"
+  },
+  "gnuplot": {
+    "name": "Gnuplot",
+    "category": "programming"
+  },
+  "go": {
+    "name": "Go",
+    "category": "programming"
+  },
+  "god": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "golo": {
+    "name": "Golo",
+    "category": "programming"
+  },
+  "gp": {
+    "name": "Gnuplot",
+    "category": "programming"
+  },
+  "grace": {
+    "name": "Grace",
+    "category": "programming"
+  },
+  "gradle": {
+    "name": "Gradle",
+    "category": "data"
+  },
+  "graphql": {
+    "name": "GraphQL",
+    "category": "data"
+  },
+  "groovy": {
+    "name": "Groovy",
+    "category": "programming"
+  },
+  "grt": {
+    "name": "Groovy",
+    "category": "programming"
+  },
+  "grxml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "gs": {
+    "name": "Gosu",
+    "category": "programming"
+  },
+  "gshader": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "gsp": {
+    "name": "Groovy Server Pages",
+    "category": "programming"
+  },
+  "gst": {
+    "name": "Gosu",
+    "category": "programming"
+  },
+  "gsx": {
+    "name": "Gosu",
+    "category": "programming"
+  },
+  "gtpl": {
+    "name": "Groovy",
+    "category": "programming"
+  },
+  "gv": {
+    "name": "Graphviz (DOT)",
+    "category": "data"
+  },
+  "gvy": {
+    "name": "Groovy",
+    "category": "programming"
+  },
+  "gyp": {
+    "name": "Python",
+    "category": "programming"
+  },
+  "h": {
+    "name": "C",
+    "category": "programming"
+  },
+  "h++": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "haml": {
+    "name": "Haml",
+    "category": "markup"
+  },
+  "handlebars": {
+    "name": "Handlebars",
+    "category": "markup"
+  },
+  "hats": {
+    "name": "ATS",
+    "category": "programming"
+  },
+  "hb": {
+    "name": "Harbour",
+    "category": "programming"
+  },
+  "hbs": {
+    "name": "Handlebars",
+    "category": "markup"
+  },
+  "hcl": {
+    "name": "HCL",
+    "category": "programming"
+  },
+  "hh": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "hic": {
+    "name": "Clojure",
+    "category": "programming"
+  },
+  "hlean": {
+    "name": "Lean",
+    "category": "programming"
+  },
+  "hlsl": {
+    "name": "HLSL",
+    "category": "programming"
+  },
+  "hlsli": {
+    "name": "HLSL",
+    "category": "programming"
+  },
+  "hpp": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "hqf": {
+    "name": "SQF",
+    "category": "programming"
+  },
+  "hrl": {
+    "name": "Erlang",
+    "category": "programming"
+  },
+  "hs": {
+    "name": "Haskell",
+    "category": "programming"
+  },
+  "hsc": {
+    "name": "Haskell",
+    "category": "programming"
+  },
+  "htm": {
+    "name": "HTML",
+    "category": "markup"
+  },
+  "html": {
+    "name": "HTML",
+    "category": "markup"
+  },
+  "http": {
+    "name": "HTTP",
+    "category": "data"
+  },
+  "hx": {
+    "name": "Haxe",
+    "category": "programming"
+  },
+  "hxsl": {
+    "name": "Haxe",
+    "category": "programming"
+  },
+  "hxx": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "hy": {
+    "name": "Hy",
+    "category": "programming"
+  },
+  "i7x": {
+    "name": "Inform 7",
+    "category": "programming"
+  },
+  "iced": {
+    "name": "CoffeeScript",
+    "category": "programming"
+  },
+  "icl": {
+    "name": "Clean",
+    "category": "programming"
+  },
+  "idc": {
+    "name": "C",
+    "category": "programming"
+  },
+  "idr": {
+    "name": "Idris",
+    "category": "programming"
+  },
+  "ihlp": {
+    "name": "Stata",
+    "category": "programming"
+  },
+  "ijs": {
+    "name": "J",
+    "category": "programming"
+  },
+  "ik": {
+    "name": "Ioke",
+    "category": "programming"
+  },
+  "ily": {
+    "name": "LilyPond",
+    "category": "programming"
+  },
+  "iml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "in": {
+    "name": "Configuration",
+    "category": "programming"
+  },
+  "inc": {
+    "name": "Assembly",
+    "category": "programming"
+  },
+  "ini": {
+    "name": "INI",
+    "category": "data"
+  },
+  "inl": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "ino": {
+    "name": "Arduino",
+    "category": "programming"
+  },
+  "ins": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "intr": {
+    "name": "Dylan",
+    "category": "programming"
+  },
+  "io": {
+    "name": "Io",
+    "category": "programming"
+  },
+  "ipf": {
+    "name": "IGOR Pro",
+    "category": "programming"
+  },
+  "ipp": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "ipynb": {
+    "name": "Jupyter Notebook",
+    "category": "markup"
+  },
+  "irbrc": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "irclog": {
+    "name": "IRC log",
+    "category": "data"
+  },
+  "iss": {
+    "name": "Inno Setup",
+    "category": "programming"
+  },
+  "ivy": {
+    "name": "XML",
+    "category": "data"
+  },
+  "j": {
+    "name": "Objective-J",
+    "category": "programming"
+  },
+  "jade": {
+    "name": "Jade",
+    "category": "markup"
+  },
+  "jake": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "java": {
+    "name": "Java",
+    "category": "programming"
+  },
+  "jbuilder": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "jelly": {
+    "name": "XML",
+    "category": "data"
+  },
+  "jflex": {
+    "name": "JFlex",
+    "category": "programming"
+  },
+  "jinja": {
+    "name": "HTML+Django",
+    "category": "markup"
+  },
+  "jl": {
+    "name": "Julia",
+    "category": "programming"
+  },
+  "jq": {
+    "name": "JSONiq",
+    "category": "programming"
+  },
+  "js": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "jsb": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "jscad": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "jsfl": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "jsm": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "json": {
+    "name": "JSON",
+    "category": "data"
+  },
+  "json5": {
+    "name": "JSON5",
+    "category": "data"
+  },
+  "jsonld": {
+    "name": "JSONLD",
+    "category": "data"
+  },
+  "jsp": {
+    "name": "Java Server Pages",
+    "category": "programming"
+  },
+  "jsproj": {
+    "name": "XML",
+    "category": "data"
+  },
+  "jss": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "jsx": {
+    "name": "JSX",
+    "category": "programming"
+  },
+  "kicad_pcb": {
+    "name": "KiCad",
+    "category": "programming"
+  },
+  "kid": {
+    "name": "Genshi",
+    "category": "programming"
+  },
+  "kit": {
+    "name": "Kit",
+    "category": "markup"
+  },
+  "kml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "krl": {
+    "name": "KRL",
+    "category": "programming"
+  },
+  "ksh": {
+    "name": "Shell",
+    "category": "programming"
+  },
+  "kt": {
+    "name": "Kotlin",
+    "category": "programming"
+  },
+  "ktm": {
+    "name": "Kotlin",
+    "category": "programming"
+  },
+  "kts": {
+    "name": "Kotlin",
+    "category": "programming"
+  },
+  "l": {
+    "name": "Lex",
+    "category": "programming"
+  },
+  "lagda": {
+    "name": "Literate Agda",
+    "category": "programming"
+  },
+  "las": {
+    "name": "Lasso",
+    "category": "programming"
+  },
+  "lasso": {
+    "name": "Lasso",
+    "category": "programming"
+  },
+  "lasso8": {
+    "name": "Lasso",
+    "category": "programming"
+  },
+  "lasso9": {
+    "name": "Lasso",
+    "category": "programming"
+  },
+  "latte": {
+    "name": "Latte",
+    "category": "markup"
+  },
+  "launch": {
+    "name": "XML",
+    "category": "data"
+  },
+  "lbx": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "ld": {
+    "name": "Linker Script",
+    "category": "data"
+  },
+  "ldml": {
+    "name": "Lasso",
+    "category": "programming"
+  },
+  "lds": {
+    "name": "Linker Script",
+    "category": "data"
+  },
+  "lean": {
+    "name": "Lean",
+    "category": "programming"
+  },
+  "less": {
+    "name": "Less",
+    "category": "markup"
+  },
+  "lex": {
+    "name": "Lex",
+    "category": "programming"
+  },
+  "lfe": {
+    "name": "LFE",
+    "category": "programming"
+  },
+  "lgt": {
+    "name": "Logtalk",
+    "category": "programming"
+  },
+  "lhs": {
+    "name": "Literate Haskell",
+    "category": "programming"
+  },
+  "lid": {
+    "name": "Dylan",
+    "category": "programming"
+  },
+  "lidr": {
+    "name": "Idris",
+    "category": "programming"
+  },
+  "liquid": {
+    "name": "Liquid",
+    "category": "markup"
+  },
+  "lisp": {
+    "name": "Lisp",
+    "category": "programming"
+  },
+  "litcoffee": {
+    "name": "Literate CoffeeScript",
+    "category": "programming"
+  },
+  "ll": {
+    "name": "LLVM",
+    "category": "programming"
+  },
+  "lmi": {
+    "name": "Python",
+    "category": "programming"
+  },
+  "lock": {
+    "name": "JSON",
+    "category": "data"
+  },
+  "logtalk": {
+    "name": "Logtalk",
+    "category": "programming"
+  },
+  "lol": {
+    "name": "LOLCODE",
+    "category": "programming"
+  },
+  "lookml": {
+    "name": "LookML",
+    "category": "programming"
+  },
+  "lpr": {
+    "name": "Pascal",
+    "category": "programming"
+  },
+  "ls": {
+    "name": "LiveScript",
+    "category": "programming"
+  },
+  "lsl": {
+    "name": "LSL",
+    "category": "programming"
+  },
+  "lslp": {
+    "name": "LSL",
+    "category": "programming"
+  },
+  "lsp": {
+    "name": "Lisp",
+    "category": "programming"
+  },
+  "ltx": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "lua": {
+    "name": "Lua",
+    "category": "programming"
+  },
+  "lvproj": {
+    "name": "LabVIEW",
+    "category": "programming"
+  },
+  "ly": {
+    "name": "LilyPond",
+    "category": "programming"
+  },
+  "m": {
+    "name": "Matlab",
+    "category": "programming"
+  },
+  "m4": {
+    "name": "M4",
+    "category": "programming"
+  },
+  "ma": {
+    "name": "Mathematica",
+    "category": "programming"
+  },
+  "mak": {
+    "name": "Makefile",
+    "category": "programming"
+  },
+  "mako": {
+    "name": "Mako",
+    "category": "programming"
+  },
+  "man": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "mao": {
+    "name": "Mako",
+    "category": "programming"
+  },
+  "markdown": {
+    "name": "Markdown",
+    "category": "prose"
+  },
+  "mask": {
+    "name": "Mask",
+    "category": "markup"
+  },
+  "mat": {
+    "name": "Unity3D Asset",
+    "category": "data"
+  },
+  "mata": {
+    "name": "Stata",
+    "category": "programming"
+  },
+  "matah": {
+    "name": "Stata",
+    "category": "programming"
+  },
+  "mathematica": {
+    "name": "Mathematica",
+    "category": "programming"
+  },
+  "matlab": {
+    "name": "Matlab",
+    "category": "programming"
+  },
+  "mawk": {
+    "name": "Awk",
+    "category": "programming"
+  },
+  "maxhelp": {
+    "name": "Max",
+    "category": "programming"
+  },
+  "maxpat": {
+    "name": "Max",
+    "category": "programming"
+  },
+  "maxproj": {
+    "name": "Max",
+    "category": "programming"
+  },
+  "mcr": {
+    "name": "MAXScript",
+    "category": "programming"
+  },
+  "md": {
+    "name": "Markdown",
+    "category": "prose"
+  },
+  "mdpolicy": {
+    "name": "XML",
+    "category": "data"
+  },
+  "me": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "mediawiki": {
+    "name": "MediaWiki",
+    "category": "prose"
+  },
+  "meta": {
+    "name": "Unity3D Asset",
+    "category": "data"
+  },
+  "metal": {
+    "name": "Metal",
+    "category": "programming"
+  },
+  "minid": {
+    "name": "MiniD",
+    "category": "programming"
+  },
+  "mir": {
+    "name": "Mirah",
+    "category": "programming"
+  },
+  "mirah": {
+    "name": "Mirah",
+    "category": "programming"
+  },
+  "mk": {
+    "name": "Makefile",
+    "category": "programming"
+  },
+  "mkd": {
+    "name": "Markdown",
+    "category": "prose"
+  },
+  "mkdn": {
+    "name": "Markdown",
+    "category": "prose"
+  },
+  "mkdown": {
+    "name": "Markdown",
+    "category": "prose"
+  },
+  "mkfile": {
+    "name": "Makefile",
+    "category": "programming"
+  },
+  "mkii": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "mkiv": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "mkvi": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "ml": {
+    "name": "OCaml",
+    "category": "programming"
+  },
+  "ml4": {
+    "name": "OCaml",
+    "category": "programming"
+  },
+  "mli": {
+    "name": "OCaml",
+    "category": "programming"
+  },
+  "mll": {
+    "name": "OCaml",
+    "category": "programming"
+  },
+  "mly": {
+    "name": "OCaml",
+    "category": "programming"
+  },
+  "mm": {
+    "name": "Objective-C++",
+    "category": "programming"
+  },
+  "mmk": {
+    "name": "Module Management System",
+    "category": "programming"
+  },
+  "mms": {
+    "name": "Module Management System",
+    "category": "programming"
+  },
+  "mo": {
+    "name": "Modelica",
+    "category": "programming"
+  },
+  "mod": {
+    "name": "AMPL",
+    "category": "programming"
+  },
+  "monkey": {
+    "name": "Monkey",
+    "category": "programming"
+  },
+  "moo": {
+    "name": "Moocode",
+    "category": "programming"
+  },
+  "moon": {
+    "name": "MoonScript",
+    "category": "programming"
+  },
+  "ms": {
+    "name": "MAXScript",
+    "category": "programming"
+  },
+  "mspec": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "mss": {
+    "name": "CartoCSS",
+    "category": "programming"
+  },
+  "mt": {
+    "name": "Mathematica",
+    "category": "programming"
+  },
+  "mtml": {
+    "name": "MTML",
+    "category": "markup"
+  },
+  "mu": {
+    "name": "mupad",
+    "category": "programming"
+  },
+  "muf": {
+    "name": "MUF",
+    "category": "programming"
+  },
+  "mumps": {
+    "name": "M",
+    "category": "programming"
+  },
+  "mustache": {
+    "name": "HTML+Django",
+    "category": "markup"
+  },
+  "mxml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "mxt": {
+    "name": "Max",
+    "category": "programming"
+  },
+  "myt": {
+    "name": "Myghty",
+    "category": "programming"
+  },
+  "n": {
+    "name": "Nemerle",
+    "category": "programming"
+  },
+  "nasm": {
+    "name": "Assembly",
+    "category": "programming"
+  },
+  "nawk": {
+    "name": "Awk",
+    "category": "programming"
+  },
+  "nb": {
+    "name": "Mathematica",
+    "category": "programming"
+  },
+  "nbp": {
+    "name": "Mathematica",
+    "category": "programming"
+  },
+  "nc": {
+    "name": "nesC",
+    "category": "programming"
+  },
+  "ncl": {
+    "name": "NCL",
+    "category": "programming"
+  },
+  "nginxconf": {
+    "name": "Nginx",
+    "category": "markup"
+  },
+  "ni": {
+    "name": "Inform 7",
+    "category": "programming"
+  },
+  "nim": {
+    "name": "Nimrod",
+    "category": "programming"
+  },
+  "nimrod": {
+    "name": "Nimrod",
+    "category": "programming"
+  },
+  "ninja": {
+    "name": "Ninja",
+    "category": "data"
+  },
+  "nit": {
+    "name": "Nit",
+    "category": "programming"
+  },
+  "nix": {
+    "name": "Nix",
+    "category": "programming"
+  },
+  "njs": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "nl": {
+    "name": "NewLisp",
+    "category": "programming"
+  },
+  "nlogo": {
+    "name": "NetLogo",
+    "category": "programming"
+  },
+  "no": {
+    "name": "Text",
+    "category": "prose"
+  },
+  "nproj": {
+    "name": "XML",
+    "category": "data"
+  },
+  "nqp": {
+    "name": "Perl6",
+    "category": "programming"
+  },
+  "nse": {
+    "name": "Lua",
+    "category": "programming"
+  },
+  "nsh": {
+    "name": "NSIS",
+    "category": "programming"
+  },
+  "nsi": {
+    "name": "NSIS",
+    "category": "programming"
+  },
+  "nu": {
+    "name": "Nu",
+    "category": "programming"
+  },
+  "numpy": {
+    "name": "NumPy",
+    "category": "programming"
+  },
+  "numpyw": {
+    "name": "NumPy",
+    "category": "programming"
+  },
+  "numsc": {
+    "name": "NumPy",
+    "category": "programming"
+  },
+  "nuspec": {
+    "name": "XML",
+    "category": "data"
+  },
+  "nut": {
+    "name": "Squirrel",
+    "category": "programming"
+  },
+  "ny": {
+    "name": "Common Lisp",
+    "category": "programming"
+  },
+  "objdump": {
+    "name": "ObjDump",
+    "category": "data"
+  },
+  "odd": {
+    "name": "XML",
+    "category": "data"
+  },
+  "omgrofl": {
+    "name": "Omgrofl",
+    "category": "programming"
+  },
+  "ooc": {
+    "name": "ooc",
+    "category": "programming"
+  },
+  "opa": {
+    "name": "Opa",
+    "category": "programming"
+  },
+  "opal": {
+    "name": "Opal",
+    "category": "programming"
+  },
+  "opencl": {
+    "name": "OpenCL",
+    "category": "programming"
+  },
+  "org": {
+    "name": "Org",
+    "category": "prose"
+  },
+  "osm": {
+    "name": "XML",
+    "category": "data"
+  },
+  "owl": {
+    "name": "Web Ontology Language",
+    "category": "markup"
+  },
+  "ox": {
+    "name": "Ox",
+    "category": "programming"
+  },
+  "oxh": {
+    "name": "Ox",
+    "category": "programming"
+  },
+  "oxo": {
+    "name": "Ox",
+    "category": "programming"
+  },
+  "oxygene": {
+    "name": "Oxygene",
+    "category": "programming"
+  },
+  "oz": {
+    "name": "Oz",
+    "category": "programming"
+  },
+  "p": {
+    "name": "OpenEdge ABL",
+    "category": "programming"
+  },
+  "p6": {
+    "name": "Perl6",
+    "category": "programming"
+  },
+  "p6l": {
+    "name": "Perl6",
+    "category": "programming"
+  },
+  "p6m": {
+    "name": "Perl6",
+    "category": "programming"
+  },
+  "pac": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "pan": {
+    "name": "Pan",
+    "category": "programming"
+  },
+  "parrot": {
+    "name": "Parrot",
+    "category": "programming"
+  },
+  "pas": {
+    "name": "Pascal",
+    "category": "programming"
+  },
+  "pasm": {
+    "name": "Parrot Assembly",
+    "category": "programming"
+  },
+  "pat": {
+    "name": "Max",
+    "category": "programming"
+  },
+  "patch": {
+    "name": "Diff",
+    "category": "data"
+  },
+  "pb": {
+    "name": "PureBasic",
+    "category": "programming"
+  },
+  "pbi": {
+    "name": "PureBasic",
+    "category": "programming"
+  },
+  "pck": {
+    "name": "PLSQL",
+    "category": "programming"
+  },
+  "pd": {
+    "name": "Pure Data",
+    "category": "programming"
+  },
+  "pd_lua": {
+    "name": "Lua",
+    "category": "programming"
+  },
+  "pde": {
+    "name": "Processing",
+    "category": "programming"
+  },
+  "perl": {
+    "name": "Perl",
+    "category": "programming"
+  },
+  "ph": {
+    "name": "Perl",
+    "category": "programming"
+  },
+  "php": {
+    "name": "PHP",
+    "category": "programming"
+  },
+  "php3": {
+    "name": "PHP",
+    "category": "programming"
+  },
+  "php4": {
+    "name": "PHP",
+    "category": "programming"
+  },
+  "php5": {
+    "name": "PHP",
+    "category": "programming"
+  },
+  "phps": {
+    "name": "PHP",
+    "category": "programming"
+  },
+  "phpt": {
+    "name": "PHP",
+    "category": "programming"
+  },
+  "phtml": {
+    "name": "HTML+PHP",
+    "category": "markup"
+  },
+  "pig": {
+    "name": "PigLatin",
+    "category": "programming"
+  },
+  "pike": {
+    "name": "Pike",
+    "category": "programming"
+  },
+  "pir": {
+    "name": "Parrot Internal Representation",
+    "category": "programming"
+  },
+  "pkb": {
+    "name": "PLSQL",
+    "category": "programming"
+  },
+  "pkl": {
+    "name": "Pickle",
+    "category": "data"
+  },
+  "pks": {
+    "name": "PLSQL",
+    "category": "programming"
+  },
+  "pl": {
+    "name": "Perl",
+    "category": "programming"
+  },
+  "pl6": {
+    "name": "Perl6",
+    "category": "programming"
+  },
+  "plb": {
+    "name": "PLSQL",
+    "category": "programming"
+  },
+  "plist": {
+    "name": "XML",
+    "category": "data"
+  },
+  "plot": {
+    "name": "Gnuplot",
+    "category": "programming"
+  },
+  "pls": {
+    "name": "PLSQL",
+    "category": "programming"
+  },
+  "plsql": {
+    "name": "PLSQL",
+    "category": "programming"
+  },
+  "plt": {
+    "name": "Gnuplot",
+    "category": "programming"
+  },
+  "pluginspec": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "plx": {
+    "name": "Perl",
+    "category": "programming"
+  },
+  "pm": {
+    "name": "Perl",
+    "category": "programming"
+  },
+  "pm6": {
+    "name": "Perl6",
+    "category": "programming"
+  },
+  "pmod": {
+    "name": "Pike",
+    "category": "programming"
+  },
+  "po": {
+    "name": "Gettext Catalog",
+    "category": "prose"
+  },
+  "pod": {
+    "name": "Pod",
+    "category": "prose"
+  },
+  "podsl": {
+    "name": "Common Lisp",
+    "category": "programming"
+  },
+  "podspec": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "pogo": {
+    "name": "PogoScript",
+    "category": "programming"
+  },
+  "pony": {
+    "name": "Pony",
+    "category": "programming"
+  },
+  "pot": {
+    "name": "Gettext Catalog",
+    "category": "prose"
+  },
+  "pov": {
+    "name": "POV-Ray SDL",
+    "category": "programming"
+  },
+  "pp": {
+    "name": "Pascal",
+    "category": "programming"
+  },
+  "prc": {
+    "name": "SQL",
+    "category": "data"
+  },
+  "prefab": {
+    "name": "Unity3D Asset",
+    "category": "data"
+  },
+  "prefs": {
+    "name": "INI",
+    "category": "data"
+  },
+  "prg": {
+    "name": "xBase",
+    "category": "programming"
+  },
+  "pri": {
+    "name": "QMake",
+    "category": "programming"
+  },
+  "pro": {
+    "name": "QMake",
+    "category": "programming"
+  },
+  "prolog": {
+    "name": "Prolog",
+    "category": "programming"
+  },
+  "properties": {
+    "name": "INI",
+    "category": "data"
+  },
+  "props": {
+    "name": "XML",
+    "category": "data"
+  },
+  "proto": {
+    "name": "Protocol Buffer",
+    "category": "markup"
+  },
+  "prw": {
+    "name": "xBase",
+    "category": "programming"
+  },
+  "ps": {
+    "name": "PostScript",
+    "category": "markup"
+  },
+  "ps1": {
+    "name": "PowerShell",
+    "category": "programming"
+  },
+  "ps1xml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "psc": {
+    "name": "Papyrus",
+    "category": "programming"
+  },
+  "psc1": {
+    "name": "XML",
+    "category": "data"
+  },
+  "psd1": {
+    "name": "PowerShell",
+    "category": "programming"
+  },
+  "psgi": {
+    "name": "Perl",
+    "category": "programming"
+  },
+  "psm1": {
+    "name": "PowerShell",
+    "category": "programming"
+  },
+  "pt": {
+    "name": "XML",
+    "category": "data"
+  },
+  "pub": {
+    "name": "Public Key",
+    "category": "data"
+  },
+  "purs": {
+    "name": "PureScript",
+    "category": "programming"
+  },
+  "pwn": {
+    "name": "PAWN",
+    "category": "programming"
+  },
+  "pxd": {
+    "name": "Cython",
+    "category": "programming"
+  },
+  "pxi": {
+    "name": "Cython",
+    "category": "programming"
+  },
+  "py": {
+    "name": "Python",
+    "category": "programming"
+  },
+  "pyde": {
+    "name": "Python",
+    "category": "programming"
+  },
+  "pyp": {
+    "name": "Python",
+    "category": "programming"
+  },
+  "pyt": {
+    "name": "Python",
+    "category": "programming"
+  },
+  "pytb": {
+    "name": "Python traceback",
+    "category": "data"
+  },
+  "pyw": {
+    "name": "Python",
+    "category": "programming"
+  },
+  "pyx": {
+    "name": "Cython",
+    "category": "programming"
+  },
+  "qbs": {
+    "name": "QML",
+    "category": "programming"
+  },
+  "qml": {
+    "name": "QML",
+    "category": "programming"
+  },
+  "r": {
+    "name": "R",
+    "category": "programming"
+  },
+  "r2": {
+    "name": "Rebol",
+    "category": "programming"
+  },
+  "r3": {
+    "name": "Rebol",
+    "category": "programming"
+  },
+  "rabl": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "rake": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "raml": {
+    "name": "RAML",
+    "category": "markup"
+  },
+  "raw": {
+    "name": "Raw token data",
+    "category": "data"
+  },
+  "rb": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "rbbas": {
+    "name": "REALbasic",
+    "category": "programming"
+  },
+  "rbfrm": {
+    "name": "REALbasic",
+    "category": "programming"
+  },
+  "rbmnu": {
+    "name": "REALbasic",
+    "category": "programming"
+  },
+  "rbres": {
+    "name": "REALbasic",
+    "category": "programming"
+  },
+  "rbtbar": {
+    "name": "REALbasic",
+    "category": "programming"
+  },
+  "rbuild": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "rbuistate": {
+    "name": "REALbasic",
+    "category": "programming"
+  },
+  "rbw": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "rbx": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "rbxs": {
+    "name": "Lua",
+    "category": "programming"
+  },
+  "rd": {
+    "name": "R",
+    "category": "programming"
+  },
+  "rdf": {
+    "name": "XML",
+    "category": "data"
+  },
+  "rdoc": {
+    "name": "RDoc",
+    "category": "prose"
+  },
+  "reb": {
+    "name": "Rebol",
+    "category": "programming"
+  },
+  "rebol": {
+    "name": "Rebol",
+    "category": "programming"
+  },
+  "red": {
+    "name": "Red",
+    "category": "programming"
+  },
+  "reds": {
+    "name": "Red",
+    "category": "programming"
+  },
+  "reek": {
+    "name": "YAML",
+    "category": "data"
+  },
+  "rest": {
+    "name": "reStructuredText",
+    "category": "prose"
+  },
+  "rg": {
+    "name": "Rouge",
+    "category": "programming"
+  },
+  "rhtml": {
+    "name": "RHTML",
+    "category": "markup"
+  },
+  "rkt": {
+    "name": "Racket",
+    "category": "programming"
+  },
+  "rktd": {
+    "name": "Racket",
+    "category": "programming"
+  },
+  "rktl": {
+    "name": "Racket",
+    "category": "programming"
+  },
+  "rl": {
+    "name": "Ragel in Ruby Host",
+    "category": "programming"
+  },
+  "rmd": {
+    "name": "RMarkdown",
+    "category": "prose"
+  },
+  "rno": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "robot": {
+    "name": "RobotFramework",
+    "category": "programming"
+  },
+  "roff": {
+    "name": "Groff",
+    "category": "markup"
+  },
+  "ron": {
+    "name": "Markdown",
+    "category": "prose"
+  },
+  "rpy": {
+    "name": "Python",
+    "category": "programming"
+  },
+  "rq": {
+    "name": "SPARQL",
+    "category": "data"
+  },
+  "rs": {
+    "name": "Rust",
+    "category": "programming"
+  },
+  "rsh": {
+    "name": "RenderScript",
+    "category": "programming"
+  },
+  "rss": {
+    "name": "XML",
+    "category": "data"
+  },
+  "rst": {
+    "name": "reStructuredText",
+    "category": "prose"
+  },
+  "rsx": {
+    "name": "R",
+    "category": "programming"
+  },
+  "ru": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "ruby": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "rviz": {
+    "name": "YAML",
+    "category": "data"
+  },
+  "s": {
+    "name": "GAS",
+    "category": "programming"
+  },
+  "sage": {
+    "name": "Sage",
+    "category": "programming"
+  },
+  "sagews": {
+    "name": "Sage",
+    "category": "programming"
+  },
+  "sas": {
+    "name": "SAS",
+    "category": "programming"
+  },
+  "sass": {
+    "name": "Sass",
+    "category": "markup"
+  },
+  "sats": {
+    "name": "ATS",
+    "category": "programming"
+  },
+  "sbt": {
+    "name": "Scala",
+    "category": "programming"
+  },
+  "sc": {
+    "name": "SuperCollider",
+    "category": "programming"
+  },
+  "scad": {
+    "name": "OpenSCAD",
+    "category": "programming"
+  },
+  "scala": {
+    "name": "Scala",
+    "category": "programming"
+  },
+  "scaml": {
+    "name": "Scaml",
+    "category": "markup"
+  },
+  "scd": {
+    "name": "SuperCollider",
+    "category": "programming"
+  },
+  "sce": {
+    "name": "Scilab",
+    "category": "programming"
+  },
+  "sch": {
+    "name": "Eagle",
+    "category": "markup"
+  },
+  "sci": {
+    "name": "Scilab",
+    "category": "programming"
+  },
+  "scm": {
+    "name": "Scheme",
+    "category": "programming"
+  },
+  "scpt": {
+    "name": "AppleScript",
+    "category": "programming"
+  },
+  "scrbl": {
+    "name": "Racket",
+    "category": "programming"
+  },
+  "scss": {
+    "name": "SCSS",
+    "category": "markup"
+  },
+  "scxml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "self": {
+    "name": "Self",
+    "category": "programming"
+  },
+  "sexp": {
+    "name": "Common Lisp",
+    "category": "programming"
+  },
+  "sh": {
+    "name": "Shell",
+    "category": "programming"
+  },
+  "sh-session": {
+    "name": "ShellSession",
+    "category": "programming"
+  },
+  "shader": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "shen": {
+    "name": "Shen",
+    "category": "programming"
+  },
+  "sig": {
+    "name": "Standard ML",
+    "category": "programming"
+  },
+  "sj": {
+    "name": "Objective-J",
+    "category": "programming"
+  },
+  "sjs": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sl": {
+    "name": "Slash",
+    "category": "programming"
+  },
+  "sld": {
+    "name": "Scheme",
+    "category": "programming"
+  },
+  "slim": {
+    "name": "Slim",
+    "category": "markup"
+  },
+  "sls": {
+    "name": "SaltStack",
+    "category": "programming"
+  },
+  "sma": {
+    "name": "SourcePawn",
+    "category": "programming"
+  },
+  "smali": {
+    "name": "Smali",
+    "category": "programming"
+  },
+  "sml": {
+    "name": "Standard ML",
+    "category": "programming"
+  },
+  "smt": {
+    "name": "SMT",
+    "category": "programming"
+  },
+  "smt2": {
+    "name": "SMT",
+    "category": "programming"
+  },
+  "sp": {
+    "name": "SourcePawn",
+    "category": "programming"
+  },
+  "sparql": {
+    "name": "SPARQL",
+    "category": "data"
+  },
+  "spin": {
+    "name": "Propeller Spin",
+    "category": "programming"
+  },
+  "sps": {
+    "name": "Scheme",
+    "category": "programming"
+  },
+  "sqf": {
+    "name": "SQF",
+    "category": "programming"
+  },
+  "sql": {
+    "name": "SQL",
+    "category": "programming"
+  },
+  "srdf": {
+    "name": "XML",
+    "category": "data"
+  },
+  "ss": {
+    "name": "Scheme",
+    "category": "programming"
+  },
+  "ssjs": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "st": {
+    "name": "Smalltalk",
+    "category": "programming"
+  },
+  "stTheme": {
+    "name": "XML",
+    "category": "data"
+  },
+  "stan": {
+    "name": "Stan",
+    "category": "programming"
+  },
+  "sthlp": {
+    "name": "Stata",
+    "category": "programming"
+  },
+  "ston": {
+    "name": "STON",
+    "category": "data"
+  },
+  "storyboard": {
+    "name": "XML",
+    "category": "data"
+  },
+  "sty": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "styl": {
+    "name": "Stylus",
+    "category": "markup"
+  },
+  "sublime-build": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sublime-commands": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sublime-completions": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sublime-keymap": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sublime-macro": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sublime-menu": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sublime-mousemap": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sublime-project": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sublime-settings": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sublime-snippet": {
+    "name": "XML",
+    "category": "data"
+  },
+  "sublime-syntax": {
+    "name": "YAML",
+    "category": "data"
+  },
+  "sublime-theme": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sublime-workspace": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sublime_metrics": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sublime_session": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "sv": {
+    "name": "SystemVerilog",
+    "category": "programming"
+  },
+  "svg": {
+    "name": "SVG",
+    "category": "data"
+  },
+  "svh": {
+    "name": "SystemVerilog",
+    "category": "programming"
+  },
+  "swift": {
+    "name": "Swift",
+    "category": "programming"
+  },
+  "syntax": {
+    "name": "YAML",
+    "category": "data"
+  },
+  "t": {
+    "name": "Turing",
+    "category": "programming"
+  },
+  "tab": {
+    "name": "SQL",
+    "category": "data"
+  },
+  "tac": {
+    "name": "Python",
+    "category": "programming"
+  },
+  "targets": {
+    "name": "XML",
+    "category": "data"
+  },
+  "tcc": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "tcl": {
+    "name": "Tcl",
+    "category": "programming"
+  },
+  "tcsh": {
+    "name": "Tcsh",
+    "category": "programming"
+  },
+  "tea": {
+    "name": "Tea",
+    "category": "markup"
+  },
+  "tex": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "textile": {
+    "name": "Textile",
+    "category": "prose"
+  },
+  "tf": {
+    "name": "HCL",
+    "category": "programming"
+  },
+  "thor": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "thrift": {
+    "name": "Thrift",
+    "category": "programming"
+  },
+  "thy": {
+    "name": "Isabelle",
+    "category": "programming"
+  },
+  "tm": {
+    "name": "Tcl",
+    "category": "programming"
+  },
+  "tmCommand": {
+    "name": "XML",
+    "category": "data"
+  },
+  "tmLanguage": {
+    "name": "XML",
+    "category": "data"
+  },
+  "tmPreferences": {
+    "name": "XML",
+    "category": "data"
+  },
+  "tmSnippet": {
+    "name": "XML",
+    "category": "data"
+  },
+  "tmTheme": {
+    "name": "XML",
+    "category": "data"
+  },
+  "tml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "tmux": {
+    "name": "Shell",
+    "category": "programming"
+  },
+  "toc": {
+    "name": "TeX",
+    "category": "markup"
+  },
+  "toml": {
+    "name": "TOML",
+    "category": "data"
+  },
+  "tool": {
+    "name": "Shell",
+    "category": "programming"
+  },
+  "topojson": {
+    "name": "JSON",
+    "category": "data"
+  },
+  "tpl": {
+    "name": "Smarty",
+    "category": "programming"
+  },
+  "tpp": {
+    "name": "C++",
+    "category": "programming"
+  },
+  "ts": {
+    "name": "TypeScript",
+    "category": "programming"
+  },
+  "tst": {
+    "name": "GAP",
+    "category": "programming"
+  },
+  "tsx": {
+    "name": "TypeScript",
+    "category": "programming"
+  },
+  "ttl": {
+    "name": "Turtle",
+    "category": "data"
+  },
+  "tu": {
+    "name": "Turing",
+    "category": "programming"
+  },
+  "twig": {
+    "name": "Twig",
+    "category": "markup"
+  },
+  "txl": {
+    "name": "TXL",
+    "category": "programming"
+  },
+  "txt": {
+    "name": "Text",
+    "category": "prose"
+  },
+  "uc": {
+    "name": "UnrealScript",
+    "category": "programming"
+  },
+  "udf": {
+    "name": "SQL",
+    "category": "data"
+  },
+  "ui": {
+    "name": "XML",
+    "category": "data"
+  },
+  "unity": {
+    "name": "Unity3D Asset",
+    "category": "data"
+  },
+  "uno": {
+    "name": "Uno",
+    "category": "programming"
+  },
+  "upc": {
+    "name": "Unified Parallel C",
+    "category": "programming"
+  },
+  "ur": {
+    "name": "UrWeb",
+    "category": "programming"
+  },
+  "urdf": {
+    "name": "XML",
+    "category": "data"
+  },
+  "urs": {
+    "name": "UrWeb",
+    "category": "programming"
+  },
+  "ux": {
+    "name": "XML",
+    "category": "data"
+  },
+  "v": {
+    "name": "Verilog",
+    "category": "programming"
+  },
+  "vala": {
+    "name": "Vala",
+    "category": "programming"
+  },
+  "vapi": {
+    "name": "Vala",
+    "category": "programming"
+  },
+  "vark": {
+    "name": "Gosu",
+    "category": "programming"
+  },
+  "vb": {
+    "name": "Visual Basic",
+    "category": "programming"
+  },
+  "vba": {
+    "name": "Visual Basic",
+    "category": "programming"
+  },
+  "vbhtml": {
+    "name": "Visual Basic",
+    "category": "programming"
+  },
+  "vbproj": {
+    "name": "XML",
+    "category": "data"
+  },
+  "vbs": {
+    "name": "Visual Basic",
+    "category": "programming"
+  },
+  "vcl": {
+    "name": "VCL",
+    "category": "programming"
+  },
+  "vcxproj": {
+    "name": "XML",
+    "category": "data"
+  },
+  "veo": {
+    "name": "Verilog",
+    "category": "programming"
+  },
+  "vert": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "vh": {
+    "name": "SystemVerilog",
+    "category": "programming"
+  },
+  "vhd": {
+    "name": "VHDL",
+    "category": "programming"
+  },
+  "vhdl": {
+    "name": "VHDL",
+    "category": "programming"
+  },
+  "vhf": {
+    "name": "VHDL",
+    "category": "programming"
+  },
+  "vhi": {
+    "name": "VHDL",
+    "category": "programming"
+  },
+  "vho": {
+    "name": "VHDL",
+    "category": "programming"
+  },
+  "vhost": {
+    "name": "Nginx",
+    "category": "markup"
+  },
+  "vhs": {
+    "name": "VHDL",
+    "category": "programming"
+  },
+  "vht": {
+    "name": "VHDL",
+    "category": "programming"
+  },
+  "vhw": {
+    "name": "VHDL",
+    "category": "programming"
+  },
+  "vim": {
+    "name": "VimL",
+    "category": "programming"
+  },
+  "viw": {
+    "name": "SQL",
+    "category": "data"
+  },
+  "volt": {
+    "name": "Volt",
+    "category": "programming"
+  },
+  "vrx": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "vsh": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "vshader": {
+    "name": "GLSL",
+    "category": "programming"
+  },
+  "vssettings": {
+    "name": "XML",
+    "category": "data"
+  },
+  "vue": {
+    "name": "Vue",
+    "category": "markup"
+  },
+  "vxml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "w": {
+    "name": "C",
+    "category": "programming"
+  },
+  "watchr": {
+    "name": "Ruby",
+    "category": "programming"
+  },
+  "webidl": {
+    "name": "WebIDL",
+    "category": "programming"
+  },
+  "weechatlog": {
+    "name": "IRC log",
+    "category": "data"
+  },
+  "wiki": {
+    "name": "MediaWiki",
+    "category": "prose"
+  },
+  "wisp": {
+    "name": "wisp",
+    "category": "programming"
+  },
+  "wl": {
+    "name": "Mathematica",
+    "category": "programming"
+  },
+  "wlt": {
+    "name": "Mathematica",
+    "category": "programming"
+  },
+  "wlua": {
+    "name": "Lua",
+    "category": "programming"
+  },
+  "wsdl": {
+    "name": "XML",
+    "category": "data"
+  },
+  "wsf": {
+    "name": "XML",
+    "category": "data"
+  },
+  "wsgi": {
+    "name": "Python",
+    "category": "programming"
+  },
+  "wxi": {
+    "name": "XML",
+    "category": "data"
+  },
+  "wxl": {
+    "name": "XML",
+    "category": "data"
+  },
+  "wxs": {
+    "name": "XML",
+    "category": "data"
+  },
+  "x": {
+    "name": "Logos",
+    "category": "programming"
+  },
+  "x10": {
+    "name": "X10",
+    "category": "programming"
+  },
+  "x3d": {
+    "name": "XML",
+    "category": "data"
+  },
+  "xacro": {
+    "name": "XML",
+    "category": "data"
+  },
+  "xaml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "xc": {
+    "name": "XC",
+    "category": "programming"
+  },
+  "xht": {
+    "name": "HTML",
+    "category": "markup"
+  },
+  "xhtml": {
+    "name": "HTML",
+    "category": "markup"
+  },
+  "xi": {
+    "name": "Logos",
+    "category": "programming"
+  },
+  "xib": {
+    "name": "XML",
+    "category": "data"
+  },
+  "xlf": {
+    "name": "XML",
+    "category": "data"
+  },
+  "xliff": {
+    "name": "XML",
+    "category": "data"
+  },
+  "xm": {
+    "name": "Logos",
+    "category": "programming"
+  },
+  "xmi": {
+    "name": "XML",
+    "category": "data"
+  },
+  "xml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "xojo_code": {
+    "name": "Xojo",
+    "category": "programming"
+  },
+  "xojo_menu": {
+    "name": "Xojo",
+    "category": "programming"
+  },
+  "xojo_report": {
+    "name": "Xojo",
+    "category": "programming"
+  },
+  "xojo_script": {
+    "name": "Xojo",
+    "category": "programming"
+  },
+  "xojo_toolbar": {
+    "name": "Xojo",
+    "category": "programming"
+  },
+  "xojo_window": {
+    "name": "Xojo",
+    "category": "programming"
+  },
+  "xpl": {
+    "name": "XProc",
+    "category": "programming"
+  },
+  "xproc": {
+    "name": "XProc",
+    "category": "programming"
+  },
+  "xproj": {
+    "name": "XML",
+    "category": "data"
+  },
+  "xpy": {
+    "name": "Python",
+    "category": "programming"
+  },
+  "xq": {
+    "name": "XQuery",
+    "category": "programming"
+  },
+  "xql": {
+    "name": "XQuery",
+    "category": "programming"
+  },
+  "xqm": {
+    "name": "XQuery",
+    "category": "programming"
+  },
+  "xquery": {
+    "name": "XQuery",
+    "category": "programming"
+  },
+  "xqy": {
+    "name": "XQuery",
+    "category": "programming"
+  },
+  "xrl": {
+    "name": "Erlang",
+    "category": "programming"
+  },
+  "xs": {
+    "name": "XS",
+    "category": "programming"
+  },
+  "xsd": {
+    "name": "XML",
+    "category": "data"
+  },
+  "xsjs": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "xsjslib": {
+    "name": "JavaScript",
+    "category": "programming"
+  },
+  "xsl": {
+    "name": "XSLT",
+    "category": "programming"
+  },
+  "xslt": {
+    "name": "XSLT",
+    "category": "programming"
+  },
+  "xsp-config": {
+    "name": "XPages",
+    "category": "programming"
+  },
+  "xtend": {
+    "name": "Xtend",
+    "category": "programming"
+  },
+  "xul": {
+    "name": "XML",
+    "category": "data"
+  },
+  "y": {
+    "name": "Yacc",
+    "category": "programming"
+  },
+  "yacc": {
+    "name": "Yacc",
+    "category": "programming"
+  },
+  "yaml": {
+    "name": "YAML",
+    "category": "data"
+  },
+  "yaml-tmlanguage": {
+    "name": "YAML",
+    "category": "data"
+  },
+  "yang": {
+    "name": "YANG",
+    "category": "data"
+  },
+  "yap": {
+    "name": "Prolog",
+    "category": "programming"
+  },
+  "yml": {
+    "name": "YAML",
+    "category": "data"
+  },
+  "yrl": {
+    "name": "Erlang",
+    "category": "programming"
+  },
+  "yy": {
+    "name": "Yacc",
+    "category": "programming"
+  },
+  "zcml": {
+    "name": "XML",
+    "category": "data"
+  },
+  "zep": {
+    "name": "Zephir",
+    "category": "programming"
+  },
+  "zimpl": {
+    "name": "Zimpl",
+    "category": "programming"
+  },
+  "zmpl": {
+    "name": "Zimpl",
+    "category": "programming"
+  },
+  "zone": {
+    "name": "DNS Zone",
+    "category": "data"
+  },
+  "zpl": {
+    "name": "Zimpl",
+    "category": "programming"
+  },
+  "zsh": {
+    "name": "Shell",
+    "category": "programming"
+  }
+}

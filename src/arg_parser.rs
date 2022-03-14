@@ -1,4 +1,4 @@
-#[derive(Debug, Copy, Clone, PartialEq, Eq, PartialOrd, Ord, ArgEnum)]
+#[derive(Debug, Clone, PartialEq, Eq, ArgEnum)]
 pub enum FileType {
     Programming,
     Markup,
@@ -16,7 +16,7 @@ pub struct Args {
     #[clap(short = 'n', long = "no-ignore")]
     pub no_gitignore: bool,
 
-    /// List of files, extensions or directories to ignore.
+    /// List of extensions to ignore.
     /// You can pass list as a single comma-separated list,
     /// or by using the flag multiple times.
     #[clap(short, long)]
@@ -27,8 +27,34 @@ pub struct Args {
     #[clap(short, long, arg_enum)]
     pub types: Option<Vec<FileType>>,
 
-
     /// Directory of the project
     #[clap(default_value_t = String::from("."))]
     pub dir: String,
+}
+
+pub trait OrDefault {
+    fn types_or_default(&self) -> &[FileType];
+    fn ignore_or_default(&self) -> &[String];
+}
+
+impl OrDefault for Args {
+    fn types_or_default(&self) -> &[FileType] {
+        if let Some(types) = self.types.as_ref() {
+            types
+        } else {
+            Args::DEFAULT_TYPE
+        }
+    }
+    fn ignore_or_default(&self) -> &[String] {
+        if let Some(ignore) = self.ignore.as_ref() {
+            ignore
+        } else {
+            Args::DEFAULT_IGNORE
+        }
+    }
+}
+
+impl Args {
+    const DEFAULT_TYPE: &'static [FileType] = &[FileType::Programming];
+    const DEFAULT_IGNORE: &'static [String] = &[String::new()];
 }

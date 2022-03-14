@@ -15,7 +15,7 @@ use types::*;
 fn program() -> ProjResult<()> {
     let args = Args::parse();
     let files = file_collector::run(&args.dir)?;
-    let stats = file_analizer::run(args, files)?;
+    let stats = file_analizer::run(args, files);
     stats_display::print(stats)?;
 
     Ok(())
