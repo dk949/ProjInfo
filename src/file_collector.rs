@@ -1,4 +1,5 @@
 use crate::arg_parser::Args;
+use crate::arg_parser::OrDefault;
 use crate::types::ProjResult;
 use std::fs::canonicalize;
 use std::path::Path;
@@ -23,7 +24,11 @@ pub fn run(args: &Args) -> ProjResult<Vec<FileExtension>> {
     if dir.exists() {
         Ok(WalkDir::new(dir)
             .into_iter()
-            .filter_entry(|e| args.no_skip_dots || !is_hidden(e))
+            .filter_entry(|e| {
+                !args.ignore_or_default()
+                    .contains(&e.file_name().to_string_lossy().to_string())
+                    && (args.no_skip_dots || !is_hidden(e))
+            })
             .filter_map(Result::ok)
             .filter(|e| e.file_type().is_file())
             .map(|e| {
