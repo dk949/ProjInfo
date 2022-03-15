@@ -1,6 +1,9 @@
 # ProjInfo
 
 Language stats for your projects.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dk949/ProjInfo/trunk/src/res/screenshot_0.png" width=80% alt="projinfo of projinfo" />
+</div>  
 
 ## Build and install
 
@@ -14,4 +17,5 @@ make install
 
 ## Platforms
 
-This was made for linux and has a chance to work on mac.
+* Tested on mac and linux, may work on other platforms.
+* On windows `langs.json` is expeccted to be foun in `C:\Users\USERNAME\AppData\Roaming\projinfo`.
