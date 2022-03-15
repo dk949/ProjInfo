@@ -19,4 +19,12 @@ uninstall:
 clean:
 	rm -rf target
 
+
+options:
+	@echo OS = $(UNAME)
+	@echo install location = $(DESTDIR)/bin/
+	@echo config location = $(CONFIGDIR)/projinfo/
+
+
+
 .PHONY: all install uninstall clean

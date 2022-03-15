@@ -4,18 +4,14 @@ Language stats for your projects.
 
 ## Build and install
 
-Requires the rust tool chain and make (doesn't actually require make, you can
-just copy the files by hand).
+Requires the rust tool chain and make
 
 ```sh
+make options # check if install and config directories are set right
 make
 make install
 ```
 
-or
+## Platforms
 
-```sh
-cargo build --release
-cp target/release/projinfo $SOME_DIRECTORY_IN_PATH
-cp src/res/langs.json $XDG_CONFIG_HOME
-```
+This was made for linux and has a chance to work on mac.
