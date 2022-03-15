@@ -21,7 +21,7 @@ pub struct Args {
     #[clap(long = "no-skip-dots")]
     pub no_skip_dots: bool,
 
-    /// List of extensions to ignore.
+    /// List of files or directories to ignore
     /// You can pass list as a single comma-separated list,
     /// or by using the flag multiple times.
     #[clap(short, long)]
@@ -31,6 +31,10 @@ pub struct Args {
     /// Does not support passing as comma-separated list.
     #[clap(short, long, arg_enum)]
     pub types: Option<Vec<FileType>>,
+
+    /// Include all file types
+    #[clap(short, long)]
+    pub all: bool,
 
     /// Directory of the project
     #[clap(default_value_t = String::from("."))]
@@ -48,7 +52,14 @@ pub trait OrDefault {
 
 impl OrDefault for Args {
     fn types_or_default(&self) -> &[FileType] {
-        if let Some(types) = self.types.as_ref() {
+        if self.all {
+            &[
+                FileType::Programming,
+                FileType::Prose,
+                FileType::Data,
+                FileType::Markup,
+            ]
+        } else if let Some(types) = self.types.as_ref() {
             types
         } else {
             Args::DEFAULT_TYPE
