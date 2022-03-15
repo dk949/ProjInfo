@@ -13,7 +13,9 @@ pub enum FileType {
 #[derive(Parser)]
 #[clap(author, version, about, long_about = None)]
 pub struct Args {
-    /// Do not use git even if the directoryis a dir repository
+
+    /// This flag is a placeholder for future functionality.
+    /// Do not use git even if the directory's a git repository.
     #[clap(long = "no-git")]
     pub no_git: bool,
 

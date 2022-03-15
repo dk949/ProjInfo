@@ -3,7 +3,7 @@
 Language stats for your projects.
 <div align="center">
   <img src="https://raw.githubusercontent.com/dk949/ProjInfo/trunk/src/res/screenshot_0.png" width=80% alt="projinfo of projinfo" />
-</div>  
+</div>
 
 ## Build and install
 

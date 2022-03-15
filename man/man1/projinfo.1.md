@@ -29,7 +29,7 @@ Think of something to write here
 : Maximum number of entries to show (default: 5)
 
 **--no-git**
-: Do not use git even if the directoryis a dir repository
+: This flag is a placeholder for future functionality. Do not use git even if the directory's a git repository.
 
 **--no-skip-dots**
 : Do not skip hidden/dot directories
