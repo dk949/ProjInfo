@@ -6,7 +6,7 @@ all: target/release/projinfo
 target/release/projinfo:
 	cargo build --release
 
-install:
+install: all
 	mkdir -p $(DESTDIR)/bin/
 	install target/release/projinfo $(DESTDIR)/bin/projinfo
 	mkdir -p $(CONFIGDIR)/projinfo
