@@ -20,7 +20,7 @@ impl Stats {
     }
 }
 
-pub fn run(args: Args, langs: Langs, files: Files) -> Stats {
+pub fn run(args: &Args, langs: Langs, files: Files) -> Stats {
     let mut stats: Stats = Stats::new(files.len());
     let types = args.types_or_default();
     let ignore = args.ignore_or_default();
@@ -38,7 +38,7 @@ pub fn run(args: Args, langs: Langs, files: Files) -> Stats {
                                 }
                             }
                         }
-                        None => *stats.langs.entry("Unknonw".to_string()).or_insert(0) += 1,
+                        None => *stats.langs.entry("Unknown".to_string()).or_insert(0) += 1,
                     }
                 }
             }

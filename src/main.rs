@@ -16,8 +16,8 @@ fn program() -> ProjResult<()> {
     let args = Args::parse();
     let langs = language_file_extensions::get()?;
     let files = file_collector::run(&args)?;
-    let stats = file_analizer::run(args, langs, files);
-    stats_display::print(stats)?;
+    let stats = file_analizer::run(&args, langs, files);
+    stats_display::print(&args, stats)?;
 
     Ok(())
 }

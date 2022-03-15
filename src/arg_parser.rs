@@ -35,6 +35,10 @@ pub struct Args {
     /// Directory of the project
     #[clap(default_value_t = String::from("."))]
     pub dir: String,
+
+    /// Maximum number of entries to show
+    #[clap(short, long, default_value_t = 5)]
+    pub most: usize,
 }
 
 pub trait OrDefault {
