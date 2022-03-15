@@ -1,12 +1,13 @@
-#[derive(Debug, Clone, PartialEq, Eq, ArgEnum)]
+use clap::{ArgEnum, Parser};
+use serde::Deserialize;
+
+#[derive(Debug, Clone, PartialEq, Eq, ArgEnum, Deserialize)]
 pub enum FileType {
     Programming,
     Markup,
     Data,
     Prose,
 }
-
-use clap::{ArgEnum, Parser};
 
 /// Display programming language usage statistics for a project
 #[derive(Parser)]

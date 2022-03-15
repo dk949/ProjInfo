@@ -1,3538 +1,3538 @@
 {
   "1": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "2": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "3": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "4": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "5": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "6": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "7": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "8": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "9": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "1in": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "1m": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "1x": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "3in": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "3m": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "3qt": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "3x": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "4th": {
     "name": "Forth",
-    "category": "programming"
+    "category": "Programming"
   },
   "6pl": {
     "name": "Perl6",
-    "category": "programming"
+    "category": "Programming"
   },
   "6pm": {
     "name": "Perl6",
-    "category": "programming"
+    "category": "Programming"
   },
   "E": {
     "name": "E",
-    "category": "programming"
+    "category": "Programming"
   },
   "ML": {
     "name": "Standard ML",
-    "category": "programming"
+    "category": "Programming"
   },
   "_coffee": {
     "name": "CoffeeScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "_js": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "_ls": {
     "name": "LiveScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "a51": {
     "name": "Assembly",
-    "category": "programming"
+    "category": "Programming"
   },
   "abap": {
     "name": "ABAP",
-    "category": "programming"
+    "category": "Programming"
   },
   "ada": {
     "name": "Ada",
-    "category": "programming"
+    "category": "Programming"
   },
   "adb": {
     "name": "Ada",
-    "category": "programming"
+    "category": "Programming"
   },
   "ado": {
     "name": "Stata",
-    "category": "programming"
+    "category": "Programming"
   },
   "adoc": {
     "name": "AsciiDoc",
-    "category": "prose"
+    "category": "Prose"
   },
   "adp": {
     "name": "Tcl",
-    "category": "programming"
+    "category": "Programming"
   },
   "ads": {
     "name": "Ada",
-    "category": "programming"
+    "category": "Programming"
   },
   "agda": {
     "name": "Agda",
-    "category": "programming"
+    "category": "Programming"
   },
   "ahk": {
     "name": "AutoHotkey",
-    "category": "programming"
+    "category": "Programming"
   },
   "ahkl": {
     "name": "AutoHotkey",
-    "category": "programming"
+    "category": "Programming"
   },
   "aj": {
     "name": "AspectJ",
-    "category": "programming"
+    "category": "Programming"
   },
   "al": {
     "name": "Perl",
-    "category": "programming"
+    "category": "Programming"
   },
   "als": {
     "name": "Alloy",
-    "category": "programming"
+    "category": "Programming"
   },
   "ampl": {
     "name": "AMPL",
-    "category": "programming"
+    "category": "Programming"
   },
   "anim": {
     "name": "Unity3D Asset",
-    "category": "data"
+    "category": "Data"
   },
   "ant": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "apacheconf": {
     "name": "ApacheConf",
-    "category": "markup"
+    "category": "Markup"
   },
   "apib": {
     "name": "API Blueprint",
-    "category": "markup"
+    "category": "Markup"
   },
   "apl": {
     "name": "APL",
-    "category": "programming"
+    "category": "Programming"
   },
   "applescript": {
     "name": "AppleScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "arc": {
     "name": "Arc",
-    "category": "programming"
+    "category": "Programming"
   },
   "arpa": {
     "name": "DNS Zone",
-    "category": "data"
+    "category": "Data"
   },
   "as": {
     "name": "ActionScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "asax": {
     "name": "ASP",
-    "category": "programming"
+    "category": "Programming"
   },
   "asc": {
     "name": "AGS Script",
-    "category": "programming"
+    "category": "Programming"
   },
   "asciidoc": {
     "name": "AsciiDoc",
-    "category": "prose"
+    "category": "Prose"
   },
   "ascx": {
     "name": "ASP",
-    "category": "programming"
+    "category": "Programming"
   },
   "asd": {
     "name": "Common Lisp",
-    "category": "programming"
+    "category": "Programming"
   },
   "ash": {
     "name": "AGS Script",
-    "category": "programming"
+    "category": "Programming"
   },
   "ashx": {
     "name": "ASP",
-    "category": "programming"
+    "category": "Programming"
   },
   "asm": {
     "name": "Assembly",
-    "category": "programming"
+    "category": "Programming"
   },
   "asmx": {
     "name": "ASP",
-    "category": "programming"
+    "category": "Programming"
   },
   "asp": {
     "name": "ASP",
-    "category": "programming"
+    "category": "Programming"
   },
   "aspx": {
     "name": "ASP",
-    "category": "programming"
+    "category": "Programming"
   },
   "asset": {
     "name": "Unity3D Asset",
-    "category": "data"
+    "category": "Data"
   },
   "au3": {
     "name": "AutoIt",
-    "category": "programming"
+    "category": "Programming"
   },
   "aug": {
     "name": "Augeas",
-    "category": "programming"
+    "category": "Programming"
   },
   "auk": {
     "name": "Awk",
-    "category": "programming"
+    "category": "Programming"
   },
   "aux": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "aw": {
     "name": "PHP",
-    "category": "programming"
+    "category": "Programming"
   },
   "awk": {
     "name": "Awk",
-    "category": "programming"
+    "category": "Programming"
   },
   "axd": {
     "name": "ASP",
-    "category": "programming"
+    "category": "Programming"
   },
   "axi": {
     "name": "NetLinx",
-    "category": "programming"
+    "category": "Programming"
   },
   "axml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "axs": {
     "name": "NetLinx",
-    "category": "programming"
+    "category": "Programming"
   },
   "b": {
     "name": "Brainfuck",
-    "category": "programming"
+    "category": "Programming"
   },
   "bas": {
     "name": "Visual Basic",
-    "category": "programming"
+    "category": "Programming"
   },
   "bash": {
     "name": "Shell",
-    "category": "programming"
+    "category": "Programming"
   },
   "bat": {
     "name": "Batchfile",
-    "category": "programming"
+    "category": "Programming"
   },
   "bats": {
     "name": "Shell",
-    "category": "programming"
+    "category": "Programming"
   },
   "bb": {
     "name": "BlitzBasic",
-    "category": "programming"
+    "category": "Programming"
   },
   "bbx": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "befunge": {
     "name": "Befunge",
-    "category": "programming"
+    "category": "Programming"
   },
   "bf": {
     "name": "Brainfuck",
-    "category": "programming"
+    "category": "Programming"
   },
   "bib": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "bison": {
     "name": "Bison",
-    "category": "programming"
+    "category": "Programming"
   },
   "bmx": {
     "name": "BlitzMax",
-    "category": "programming"
+    "category": "Programming"
   },
   "bones": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "boo": {
     "name": "Boo",
-    "category": "programming"
+    "category": "Programming"
   },
   "boot": {
     "name": "Clojure",
-    "category": "programming"
+    "category": "Programming"
   },
   "brd": {
     "name": "Eagle",
-    "category": "markup"
+    "category": "Markup"
   },
   "bro": {
     "name": "Bro",
-    "category": "programming"
+    "category": "Programming"
   },
   "brs": {
     "name": "Brightscript",
-    "category": "programming"
+    "category": "Programming"
   },
   "bsv": {
     "name": "Bluespec",
-    "category": "programming"
+    "category": "Programming"
   },
   "builder": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "bzl": {
     "name": "Python",
-    "category": "programming"
+    "category": "Programming"
   },
   "c": {
     "name": "C",
-    "category": "programming"
+    "category": "Programming"
   },
   "c++": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "c++-objdump": {
     "name": "Cpp-ObjDump",
-    "category": "data"
+    "category": "Data"
   },
   "c++objdump": {
     "name": "Cpp-ObjDump",
-    "category": "data"
+    "category": "Data"
   },
   "c-objdump": {
     "name": "C-ObjDump",
-    "category": "data"
+    "category": "Data"
   },
   "cake": {
     "name": "cake",
-    "category": "programming"
+    "category": "Programming"
   },
   "capnp": {
     "name": "Cap'n Proto",
-    "category": "programming"
+    "category": "Programming"
   },
   "cats": {
     "name": "C",
-    "category": "programming"
+    "category": "Programming"
   },
   "cbl": {
     "name": "COBOL",
-    "category": "programming"
+    "category": "Programming"
   },
   "cbx": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "cc": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "ccp": {
     "name": "COBOL",
-    "category": "programming"
+    "category": "Programming"
   },
   "ccxml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "cdf": {
     "name": "Mathematica",
-    "category": "programming"
+    "category": "Programming"
   },
   "ceylon": {
     "name": "Ceylon",
-    "category": "programming"
+    "category": "Programming"
   },
   "cfc": {
     "name": "ColdFusion CFC",
-    "category": "programming"
+    "category": "Programming"
   },
   "cfg": {
     "name": "INI",
-    "category": "data"
+    "category": "Data"
   },
   "cfm": {
     "name": "ColdFusion",
-    "category": "programming"
+    "category": "Programming"
   },
   "cfml": {
     "name": "ColdFusion",
-    "category": "programming"
+    "category": "Programming"
   },
   "cgi": {
     "name": "CGI",
-    "category": "programming"
+    "category": "Programming"
   },
   "ch": {
     "name": "Clipper",
-    "category": "programming"
+    "category": "Programming"
   },
   "chpl": {
     "name": "Chapel",
-    "category": "programming"
+    "category": "Programming"
   },
   "chs": {
     "name": "C2hs Haskell",
-    "category": "programming"
+    "category": "Programming"
   },
   "cirru": {
     "name": "Cirru",
-    "category": "programming"
+    "category": "Programming"
   },
   "cjsx": {
     "name": "CoffeeScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "ck": {
     "name": "ChucK",
-    "category": "programming"
+    "category": "Programming"
   },
   "cl": {
     "name": "Lisp",
-    "category": "programming"
+    "category": "Programming"
   },
   "cl2": {
     "name": "Clojure",
-    "category": "programming"
+    "category": "Programming"
   },
   "click": {
     "name": "Click",
-    "category": "programming"
+    "category": "Programming"
   },
   "clixml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "clj": {
     "name": "Clojure",
-    "category": "programming"
+    "category": "Programming"
   },
   "cljc": {
     "name": "Clojure",
-    "category": "programming"
+    "category": "Programming"
   },
   "cljs": {
     "name": "Clojure",
-    "category": "programming"
+    "category": "Programming"
   },
   "cljscm": {
     "name": "Clojure",
-    "category": "programming"
+    "category": "Programming"
   },
   "cljx": {
     "name": "Clojure",
-    "category": "programming"
+    "category": "Programming"
   },
   "clp": {
     "name": "CLIPS",
-    "category": "programming"
+    "category": "Programming"
   },
   "cls": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "clw": {
     "name": "Clarion",
-    "category": "programming"
+    "category": "Programming"
   },
   "cmake": {
     "name": "CMake",
-    "category": "programming"
+    "category": "Programming"
   },
   "cmd": {
     "name": "Batchfile",
-    "category": "programming"
+    "category": "Programming"
   },
   "cob": {
     "name": "COBOL",
-    "category": "programming"
+    "category": "Programming"
   },
   "cobol": {
     "name": "COBOL",
-    "category": "programming"
+    "category": "Programming"
   },
   "coffee": {
     "name": "CoffeeScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "com": {
     "name": "DIGITAL Command Language",
-    "category": "programming"
+    "category": "Programming"
   },
   "command": {
     "name": "Shell",
-    "category": "programming"
+    "category": "Programming"
   },
   "coq": {
     "name": "Coq",
-    "category": "programming"
+    "category": "Programming"
   },
   "cp": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "cpp": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "cpp-objdump": {
     "name": "Cpp-ObjDump",
-    "category": "data"
+    "category": "Data"
   },
   "cppobjdump": {
     "name": "Cpp-ObjDump",
-    "category": "data"
+    "category": "Data"
   },
   "cproject": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "cps": {
     "name": "Component Pascal",
-    "category": "programming"
+    "category": "Programming"
   },
   "cpy": {
     "name": "COBOL",
-    "category": "programming"
+    "category": "Programming"
   },
   "cql": {
     "name": "SQL",
-    "category": "data"
+    "category": "Data"
   },
   "cr": {
     "name": "Crystal",
-    "category": "programming"
+    "category": "Programming"
   },
   "creole": {
     "name": "Creole",
-    "category": "prose"
+    "category": "Prose"
   },
   "cs": {
     "name": "C#",
-    "category": "programming"
+    "category": "Programming"
   },
   "csh": {
     "name": "Tcsh",
-    "category": "programming"
+    "category": "Programming"
   },
   "cshtml": {
     "name": "C#",
-    "category": "programming"
+    "category": "Programming"
   },
   "csl": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "cson": {
     "name": "CoffeeScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "csproj": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "css": {
     "name": "CSS",
-    "category": "markup"
+    "category": "Markup"
   },
   "csv": {
     "name": "CSV",
-    "category": "data"
+    "category": "Data"
   },
   "csx": {
     "name": "C#",
-    "category": "programming"
+    "category": "Programming"
   },
   "ct": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "ctp": {
     "name": "PHP",
-    "category": "programming"
+    "category": "Programming"
   },
   "cu": {
     "name": "Cuda",
-    "category": "programming"
+    "category": "Programming"
   },
   "cuh": {
     "name": "Cuda",
-    "category": "programming"
+    "category": "Programming"
   },
   "cw": {
     "name": "Redcode",
-    "category": "programming"
+    "category": "Programming"
   },
   "cxx": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "cxx-objdump": {
     "name": "Cpp-ObjDump",
-    "category": "data"
+    "category": "Data"
   },
   "cy": {
     "name": "Cycript",
-    "category": "programming"
+    "category": "Programming"
   },
   "d": {
     "name": "D",
-    "category": "programming"
+    "category": "Programming"
   },
   "d-objdump": {
     "name": "D-ObjDump",
-    "category": "data"
+    "category": "Data"
   },
   "darcspatch": {
     "name": "Darcs Patch",
-    "category": "data"
+    "category": "Data"
   },
   "dart": {
     "name": "Dart",
-    "category": "programming"
+    "category": "Programming"
   },
   "dats": {
     "name": "ATS",
-    "category": "programming"
+    "category": "Programming"
   },
   "db2": {
     "name": "SQLPL",
-    "category": "programming"
+    "category": "Programming"
   },
   "dcl": {
     "name": "Clean",
-    "category": "programming"
+    "category": "Programming"
   },
   "ddl": {
     "name": "SQL",
-    "category": "data"
+    "category": "Data"
   },
   "decls": {
     "name": "BlitzBasic",
-    "category": "programming"
+    "category": "Programming"
   },
   "desktop": {
     "name": "desktop",
-    "category": "data"
+    "category": "Data"
   },
   "dfm": {
     "name": "Pascal",
-    "category": "programming"
+    "category": "Programming"
   },
   "di": {
     "name": "D",
-    "category": "programming"
+    "category": "Programming"
   },
   "diff": {
     "name": "Diff",
-    "category": "data"
+    "category": "Data"
   },
   "dita": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "ditamap": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "ditaval": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "djs": {
     "name": "Dogescript",
-    "category": "programming"
+    "category": "Programming"
   },
   "dlm": {
     "name": "IDL",
-    "category": "programming"
+    "category": "Programming"
   },
   "dm": {
     "name": "DM",
-    "category": "programming"
+    "category": "Programming"
   },
   "do": {
     "name": "Stata",
-    "category": "programming"
+    "category": "Programming"
   },
   "dockerfile": {
     "name": "Dockerfile",
-    "category": "data"
+    "category": "Data"
   },
   "doh": {
     "name": "Stata",
-    "category": "programming"
+    "category": "Programming"
   },
   "dot": {
     "name": "Graphviz (DOT)",
-    "category": "data"
+    "category": "Data"
   },
   "dotsettings": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "dpatch": {
     "name": "Darcs Patch",
-    "category": "data"
+    "category": "Data"
   },
   "dpr": {
     "name": "Pascal",
-    "category": "programming"
+    "category": "Programming"
   },
   "druby": {
     "name": "Mirah",
-    "category": "programming"
+    "category": "Programming"
   },
   "dtx": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "duby": {
     "name": "Mirah",
-    "category": "programming"
+    "category": "Programming"
   },
   "dyalog": {
     "name": "APL",
-    "category": "programming"
+    "category": "Programming"
   },
   "dyl": {
     "name": "Dylan",
-    "category": "programming"
+    "category": "Programming"
   },
   "dylan": {
     "name": "Dylan",
-    "category": "programming"
+    "category": "Programming"
   },
   "e": {
     "name": "Eiffel",
-    "category": "programming"
+    "category": "Programming"
   },
   "ebuild": {
     "name": "Gentoo Ebuild",
-    "category": "programming"
+    "category": "Programming"
   },
   "ec": {
     "name": "eC",
-    "category": "programming"
+    "category": "Programming"
   },
   "ecl": {
     "name": "ECL",
-    "category": "programming"
+    "category": "Programming"
   },
   "eclass": {
     "name": "Gentoo Eclass",
-    "category": "programming"
+    "category": "Programming"
   },
   "eclxml": {
     "name": "ECL",
-    "category": "programming"
+    "category": "Programming"
   },
   "edn": {
     "name": "edn",
-    "category": "data"
+    "category": "Data"
   },
   "eex": {
     "name": "HTML+EEX",
-    "category": "markup"
+    "category": "Markup"
   },
   "eh": {
     "name": "eC",
-    "category": "programming"
+    "category": "Programming"
   },
   "el": {
     "name": "Emacs Lisp",
-    "category": "programming"
+    "category": "Programming"
   },
   "eliom": {
     "name": "OCaml",
-    "category": "programming"
+    "category": "Programming"
   },
   "eliomi": {
     "name": "OCaml",
-    "category": "programming"
+    "category": "Programming"
   },
   "elm": {
     "name": "Elm",
-    "category": "programming"
+    "category": "Programming"
   },
   "em": {
     "name": "EmberScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "emacs": {
     "name": "Emacs Lisp",
-    "category": "programming"
+    "category": "Programming"
   },
   "emberscript": {
     "name": "EmberScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "epj": {
     "name": "Ecere Projects",
-    "category": "data"
+    "category": "Data"
   },
   "eps": {
     "name": "PostScript",
-    "category": "markup"
+    "category": "Markup"
   },
   "erb": {
     "name": "HTML+ERB",
-    "category": "markup"
+    "category": "Markup"
   },
   "erl": {
     "name": "Erlang",
-    "category": "programming"
+    "category": "Programming"
   },
   "es": {
     "name": "Erlang",
-    "category": "programming"
+    "category": "Programming"
   },
   "es6": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "escript": {
     "name": "Erlang",
-    "category": "programming"
+    "category": "Programming"
   },
   "ex": {
     "name": "Elixir",
-    "category": "programming"
+    "category": "Programming"
   },
   "exs": {
     "name": "Elixir",
-    "category": "programming"
+    "category": "Programming"
   },
   "f": {
     "name": "FORTRAN",
-    "category": "programming"
+    "category": "Programming"
   },
   "f03": {
     "name": "FORTRAN",
-    "category": "programming"
+    "category": "Programming"
   },
   "f08": {
     "name": "FORTRAN",
-    "category": "programming"
+    "category": "Programming"
   },
   "f77": {
     "name": "FORTRAN",
-    "category": "programming"
+    "category": "Programming"
   },
   "f90": {
     "name": "FORTRAN",
-    "category": "programming"
+    "category": "Programming"
   },
   "f95": {
     "name": "FORTRAN",
-    "category": "programming"
+    "category": "Programming"
   },
   "factor": {
     "name": "Factor",
-    "category": "programming"
+    "category": "Programming"
   },
   "fan": {
     "name": "Fantom",
-    "category": "programming"
+    "category": "Programming"
   },
   "fancypack": {
     "name": "Fancy",
-    "category": "programming"
+    "category": "Programming"
   },
   "fcgi": {
     "name": "Lua",
-    "category": "programming"
+    "category": "Programming"
   },
   "feature": {
     "name": "Cucumber",
-    "category": "programming"
+    "category": "Programming"
   },
   "filters": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "fish": {
     "name": "fish",
-    "category": "programming"
+    "category": "Programming"
   },
   "flex": {
     "name": "JFlex",
-    "category": "programming"
+    "category": "Programming"
   },
   "flux": {
     "name": "FLUX",
-    "category": "programming"
+    "category": "Programming"
   },
   "for": {
     "name": "FORTRAN",
-    "category": "programming"
+    "category": "Programming"
   },
   "forth": {
     "name": "Forth",
-    "category": "programming"
+    "category": "Programming"
   },
   "fp": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "fpp": {
     "name": "FORTRAN",
-    "category": "programming"
+    "category": "Programming"
   },
   "fr": {
     "name": "Forth",
-    "category": "programming"
+    "category": "Programming"
   },
   "frag": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "frg": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "frm": {
     "name": "Visual Basic",
-    "category": "programming"
+    "category": "Programming"
   },
   "frt": {
     "name": "Forth",
-    "category": "programming"
+    "category": "Programming"
   },
   "frx": {
     "name": "Visual Basic",
-    "category": "programming"
+    "category": "Programming"
   },
   "fs": {
     "name": "F#",
-    "category": "programming"
+    "category": "Programming"
   },
   "fsh": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "fshader": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "fsi": {
     "name": "F#",
-    "category": "programming"
+    "category": "Programming"
   },
   "fsproj": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "fsx": {
     "name": "F#",
-    "category": "programming"
+    "category": "Programming"
   },
   "fth": {
     "name": "Forth",
-    "category": "programming"
+    "category": "Programming"
   },
   "ftl": {
     "name": "FreeMarker",
-    "category": "programming"
+    "category": "Programming"
   },
   "fun": {
     "name": "Standard ML",
-    "category": "programming"
+    "category": "Programming"
   },
   "fx": {
     "name": "HLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "fxh": {
     "name": "HLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "fxml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "fy": {
     "name": "Fancy",
-    "category": "programming"
+    "category": "Programming"
   },
   "g": {
     "name": "G-code",
-    "category": "data"
+    "category": "Data"
   },
   "g4": {
     "name": "ANTLR",
-    "category": "programming"
+    "category": "Programming"
   },
   "gap": {
     "name": "GAP",
-    "category": "programming"
+    "category": "Programming"
   },
   "gawk": {
     "name": "Awk",
-    "category": "programming"
+    "category": "Programming"
   },
   "gco": {
     "name": "G-code",
-    "category": "data"
+    "category": "Data"
   },
   "gcode": {
     "name": "G-code",
-    "category": "data"
+    "category": "Data"
   },
   "gd": {
     "name": "GDScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "gemspec": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "geo": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "geojson": {
     "name": "JSON",
-    "category": "data"
+    "category": "Data"
   },
   "geom": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "gf": {
     "name": "Grammatical Framework",
-    "category": "programming"
+    "category": "Programming"
   },
   "gi": {
     "name": "GAP",
-    "category": "programming"
+    "category": "Programming"
   },
   "glade": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "glf": {
     "name": "Glyph",
-    "category": "programming"
+    "category": "Programming"
   },
   "glsl": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "glslv": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "gml": {
     "name": "Game Maker Language",
-    "category": "programming"
+    "category": "Programming"
   },
   "gms": {
     "name": "GAMS",
-    "category": "programming"
+    "category": "Programming"
   },
   "gnu": {
     "name": "Gnuplot",
-    "category": "programming"
+    "category": "Programming"
   },
   "gnuplot": {
     "name": "Gnuplot",
-    "category": "programming"
+    "category": "Programming"
   },
   "go": {
     "name": "Go",
-    "category": "programming"
+    "category": "Programming"
   },
   "god": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "golo": {
     "name": "Golo",
-    "category": "programming"
+    "category": "Programming"
   },
   "gp": {
     "name": "Gnuplot",
-    "category": "programming"
+    "category": "Programming"
   },
   "grace": {
     "name": "Grace",
-    "category": "programming"
+    "category": "Programming"
   },
   "gradle": {
     "name": "Gradle",
-    "category": "data"
+    "category": "Data"
   },
   "graphql": {
     "name": "GraphQL",
-    "category": "data"
+    "category": "Data"
   },
   "groovy": {
     "name": "Groovy",
-    "category": "programming"
+    "category": "Programming"
   },
   "grt": {
     "name": "Groovy",
-    "category": "programming"
+    "category": "Programming"
   },
   "grxml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "gs": {
     "name": "Gosu",
-    "category": "programming"
+    "category": "Programming"
   },
   "gshader": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "gsp": {
     "name": "Groovy Server Pages",
-    "category": "programming"
+    "category": "Programming"
   },
   "gst": {
     "name": "Gosu",
-    "category": "programming"
+    "category": "Programming"
   },
   "gsx": {
     "name": "Gosu",
-    "category": "programming"
+    "category": "Programming"
   },
   "gtpl": {
     "name": "Groovy",
-    "category": "programming"
+    "category": "Programming"
   },
   "gv": {
     "name": "Graphviz (DOT)",
-    "category": "data"
+    "category": "Data"
   },
   "gvy": {
     "name": "Groovy",
-    "category": "programming"
+    "category": "Programming"
   },
   "gyp": {
     "name": "Python",
-    "category": "programming"
+    "category": "Programming"
   },
   "h": {
     "name": "C",
-    "category": "programming"
+    "category": "Programming"
   },
   "h++": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "haml": {
     "name": "Haml",
-    "category": "markup"
+    "category": "Markup"
   },
   "handlebars": {
     "name": "Handlebars",
-    "category": "markup"
+    "category": "Markup"
   },
   "hats": {
     "name": "ATS",
-    "category": "programming"
+    "category": "Programming"
   },
   "hb": {
     "name": "Harbour",
-    "category": "programming"
+    "category": "Programming"
   },
   "hbs": {
     "name": "Handlebars",
-    "category": "markup"
+    "category": "Markup"
   },
   "hcl": {
     "name": "HCL",
-    "category": "programming"
+    "category": "Programming"
   },
   "hh": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "hic": {
     "name": "Clojure",
-    "category": "programming"
+    "category": "Programming"
   },
   "hlean": {
     "name": "Lean",
-    "category": "programming"
+    "category": "Programming"
   },
   "hlsl": {
     "name": "HLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "hlsli": {
     "name": "HLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "hpp": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "hqf": {
     "name": "SQF",
-    "category": "programming"
+    "category": "Programming"
   },
   "hrl": {
     "name": "Erlang",
-    "category": "programming"
+    "category": "Programming"
   },
   "hs": {
     "name": "Haskell",
-    "category": "programming"
+    "category": "Programming"
   },
   "hsc": {
     "name": "Haskell",
-    "category": "programming"
+    "category": "Programming"
   },
   "htm": {
     "name": "HTML",
-    "category": "markup"
+    "category": "Markup"
   },
   "html": {
     "name": "HTML",
-    "category": "markup"
+    "category": "Markup"
   },
   "http": {
     "name": "HTTP",
-    "category": "data"
+    "category": "Data"
   },
   "hx": {
     "name": "Haxe",
-    "category": "programming"
+    "category": "Programming"
   },
   "hxsl": {
     "name": "Haxe",
-    "category": "programming"
+    "category": "Programming"
   },
   "hxx": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "hy": {
     "name": "Hy",
-    "category": "programming"
+    "category": "Programming"
   },
   "i7x": {
     "name": "Inform 7",
-    "category": "programming"
+    "category": "Programming"
   },
   "iced": {
     "name": "CoffeeScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "icl": {
     "name": "Clean",
-    "category": "programming"
+    "category": "Programming"
   },
   "idc": {
     "name": "C",
-    "category": "programming"
+    "category": "Programming"
   },
   "idr": {
     "name": "Idris",
-    "category": "programming"
+    "category": "Programming"
   },
   "ihlp": {
     "name": "Stata",
-    "category": "programming"
+    "category": "Programming"
   },
   "ijs": {
     "name": "J",
-    "category": "programming"
+    "category": "Programming"
   },
   "ik": {
     "name": "Ioke",
-    "category": "programming"
+    "category": "Programming"
   },
   "ily": {
     "name": "LilyPond",
-    "category": "programming"
+    "category": "Programming"
   },
   "iml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "in": {
     "name": "Configuration",
-    "category": "programming"
+    "category": "Programming"
   },
   "inc": {
     "name": "Assembly",
-    "category": "programming"
+    "category": "Programming"
   },
   "ini": {
     "name": "INI",
-    "category": "data"
+    "category": "Data"
   },
   "inl": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "ino": {
     "name": "Arduino",
-    "category": "programming"
+    "category": "Programming"
   },
   "ins": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "intr": {
     "name": "Dylan",
-    "category": "programming"
+    "category": "Programming"
   },
   "io": {
     "name": "Io",
-    "category": "programming"
+    "category": "Programming"
   },
   "ipf": {
     "name": "IGOR Pro",
-    "category": "programming"
+    "category": "Programming"
   },
   "ipp": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "ipynb": {
     "name": "Jupyter Notebook",
-    "category": "markup"
+    "category": "Markup"
   },
   "irbrc": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "irclog": {
     "name": "IRC log",
-    "category": "data"
+    "category": "Data"
   },
   "iss": {
     "name": "Inno Setup",
-    "category": "programming"
+    "category": "Programming"
   },
   "ivy": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "j": {
     "name": "Objective-J",
-    "category": "programming"
+    "category": "Programming"
   },
   "jade": {
     "name": "Jade",
-    "category": "markup"
+    "category": "Markup"
   },
   "jake": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "java": {
     "name": "Java",
-    "category": "programming"
+    "category": "Programming"
   },
   "jbuilder": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "jelly": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "jflex": {
     "name": "JFlex",
-    "category": "programming"
+    "category": "Programming"
   },
   "jinja": {
     "name": "HTML+Django",
-    "category": "markup"
+    "category": "Markup"
   },
   "jl": {
     "name": "Julia",
-    "category": "programming"
+    "category": "Programming"
   },
   "jq": {
     "name": "JSONiq",
-    "category": "programming"
+    "category": "Programming"
   },
   "js": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "jsb": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "jscad": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "jsfl": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "jsm": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "json": {
     "name": "JSON",
-    "category": "data"
+    "category": "Data"
   },
   "json5": {
     "name": "JSON5",
-    "category": "data"
+    "category": "Data"
   },
   "jsonld": {
     "name": "JSONLD",
-    "category": "data"
+    "category": "Data"
   },
   "jsp": {
     "name": "Java Server Pages",
-    "category": "programming"
+    "category": "Programming"
   },
   "jsproj": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "jss": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "jsx": {
     "name": "JSX",
-    "category": "programming"
+    "category": "Programming"
   },
   "kicad_pcb": {
     "name": "KiCad",
-    "category": "programming"
+    "category": "Programming"
   },
   "kid": {
     "name": "Genshi",
-    "category": "programming"
+    "category": "Programming"
   },
   "kit": {
     "name": "Kit",
-    "category": "markup"
+    "category": "Markup"
   },
   "kml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "krl": {
     "name": "KRL",
-    "category": "programming"
+    "category": "Programming"
   },
   "ksh": {
     "name": "Shell",
-    "category": "programming"
+    "category": "Programming"
   },
   "kt": {
     "name": "Kotlin",
-    "category": "programming"
+    "category": "Programming"
   },
   "ktm": {
     "name": "Kotlin",
-    "category": "programming"
+    "category": "Programming"
   },
   "kts": {
     "name": "Kotlin",
-    "category": "programming"
+    "category": "Programming"
   },
   "l": {
     "name": "Lex",
-    "category": "programming"
+    "category": "Programming"
   },
   "lagda": {
     "name": "Literate Agda",
-    "category": "programming"
+    "category": "Programming"
   },
   "las": {
     "name": "Lasso",
-    "category": "programming"
+    "category": "Programming"
   },
   "lasso": {
     "name": "Lasso",
-    "category": "programming"
+    "category": "Programming"
   },
   "lasso8": {
     "name": "Lasso",
-    "category": "programming"
+    "category": "Programming"
   },
   "lasso9": {
     "name": "Lasso",
-    "category": "programming"
+    "category": "Programming"
   },
   "latte": {
     "name": "Latte",
-    "category": "markup"
+    "category": "Markup"
   },
   "launch": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "lbx": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "ld": {
     "name": "Linker Script",
-    "category": "data"
+    "category": "Data"
   },
   "ldml": {
     "name": "Lasso",
-    "category": "programming"
+    "category": "Programming"
   },
   "lds": {
     "name": "Linker Script",
-    "category": "data"
+    "category": "Data"
   },
   "lean": {
     "name": "Lean",
-    "category": "programming"
+    "category": "Programming"
   },
   "less": {
     "name": "Less",
-    "category": "markup"
+    "category": "Markup"
   },
   "lex": {
     "name": "Lex",
-    "category": "programming"
+    "category": "Programming"
   },
   "lfe": {
     "name": "LFE",
-    "category": "programming"
+    "category": "Programming"
   },
   "lgt": {
     "name": "Logtalk",
-    "category": "programming"
+    "category": "Programming"
   },
   "lhs": {
     "name": "Literate Haskell",
-    "category": "programming"
+    "category": "Programming"
   },
   "lid": {
     "name": "Dylan",
-    "category": "programming"
+    "category": "Programming"
   },
   "lidr": {
     "name": "Idris",
-    "category": "programming"
+    "category": "Programming"
   },
   "liquid": {
     "name": "Liquid",
-    "category": "markup"
+    "category": "Markup"
   },
   "lisp": {
     "name": "Lisp",
-    "category": "programming"
+    "category": "Programming"
   },
   "litcoffee": {
     "name": "Literate CoffeeScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "ll": {
     "name": "LLVM",
-    "category": "programming"
+    "category": "Programming"
   },
   "lmi": {
     "name": "Python",
-    "category": "programming"
+    "category": "Programming"
   },
   "lock": {
     "name": "JSON",
-    "category": "data"
+    "category": "Data"
   },
   "logtalk": {
     "name": "Logtalk",
-    "category": "programming"
+    "category": "Programming"
   },
   "lol": {
     "name": "LOLCODE",
-    "category": "programming"
+    "category": "Programming"
   },
   "lookml": {
     "name": "LookML",
-    "category": "programming"
+    "category": "Programming"
   },
   "lpr": {
     "name": "Pascal",
-    "category": "programming"
+    "category": "Programming"
   },
   "ls": {
     "name": "LiveScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "lsl": {
     "name": "LSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "lslp": {
     "name": "LSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "lsp": {
     "name": "Lisp",
-    "category": "programming"
+    "category": "Programming"
   },
   "ltx": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "lua": {
     "name": "Lua",
-    "category": "programming"
+    "category": "Programming"
   },
   "lvproj": {
     "name": "LabVIEW",
-    "category": "programming"
+    "category": "Programming"
   },
   "ly": {
     "name": "LilyPond",
-    "category": "programming"
+    "category": "Programming"
   },
   "m": {
     "name": "Matlab",
-    "category": "programming"
+    "category": "Programming"
   },
   "m4": {
     "name": "M4",
-    "category": "programming"
+    "category": "Programming"
   },
   "ma": {
     "name": "Mathematica",
-    "category": "programming"
+    "category": "Programming"
   },
   "mak": {
     "name": "Makefile",
-    "category": "programming"
+    "category": "Programming"
   },
   "mako": {
     "name": "Mako",
-    "category": "programming"
+    "category": "Programming"
   },
   "man": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "mao": {
     "name": "Mako",
-    "category": "programming"
+    "category": "Programming"
   },
   "markdown": {
     "name": "Markdown",
-    "category": "prose"
+    "category": "Prose"
   },
   "mask": {
     "name": "Mask",
-    "category": "markup"
+    "category": "Markup"
   },
   "mat": {
     "name": "Unity3D Asset",
-    "category": "data"
+    "category": "Data"
   },
   "mata": {
     "name": "Stata",
-    "category": "programming"
+    "category": "Programming"
   },
   "matah": {
     "name": "Stata",
-    "category": "programming"
+    "category": "Programming"
   },
   "mathematica": {
     "name": "Mathematica",
-    "category": "programming"
+    "category": "Programming"
   },
   "matlab": {
     "name": "Matlab",
-    "category": "programming"
+    "category": "Programming"
   },
   "mawk": {
     "name": "Awk",
-    "category": "programming"
+    "category": "Programming"
   },
   "maxhelp": {
     "name": "Max",
-    "category": "programming"
+    "category": "Programming"
   },
   "maxpat": {
     "name": "Max",
-    "category": "programming"
+    "category": "Programming"
   },
   "maxproj": {
     "name": "Max",
-    "category": "programming"
+    "category": "Programming"
   },
   "mcr": {
     "name": "MAXScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "md": {
     "name": "Markdown",
-    "category": "prose"
+    "category": "Prose"
   },
   "mdpolicy": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "me": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "mediawiki": {
     "name": "MediaWiki",
-    "category": "prose"
+    "category": "Prose"
   },
   "meta": {
     "name": "Unity3D Asset",
-    "category": "data"
+    "category": "Data"
   },
   "metal": {
     "name": "Metal",
-    "category": "programming"
+    "category": "Programming"
   },
   "minid": {
     "name": "MiniD",
-    "category": "programming"
+    "category": "Programming"
   },
   "mir": {
     "name": "Mirah",
-    "category": "programming"
+    "category": "Programming"
   },
   "mirah": {
     "name": "Mirah",
-    "category": "programming"
+    "category": "Programming"
   },
   "mk": {
     "name": "Makefile",
-    "category": "programming"
+    "category": "Programming"
   },
   "mkd": {
     "name": "Markdown",
-    "category": "prose"
+    "category": "Prose"
   },
   "mkdn": {
     "name": "Markdown",
-    "category": "prose"
+    "category": "Prose"
   },
   "mkdown": {
     "name": "Markdown",
-    "category": "prose"
+    "category": "Prose"
   },
   "mkfile": {
     "name": "Makefile",
-    "category": "programming"
+    "category": "Programming"
   },
   "mkii": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "mkiv": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "mkvi": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "ml": {
     "name": "OCaml",
-    "category": "programming"
+    "category": "Programming"
   },
   "ml4": {
     "name": "OCaml",
-    "category": "programming"
+    "category": "Programming"
   },
   "mli": {
     "name": "OCaml",
-    "category": "programming"
+    "category": "Programming"
   },
   "mll": {
     "name": "OCaml",
-    "category": "programming"
+    "category": "Programming"
   },
   "mly": {
     "name": "OCaml",
-    "category": "programming"
+    "category": "Programming"
   },
   "mm": {
     "name": "Objective-C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "mmk": {
     "name": "Module Management System",
-    "category": "programming"
+    "category": "Programming"
   },
   "mms": {
     "name": "Module Management System",
-    "category": "programming"
+    "category": "Programming"
   },
   "mo": {
     "name": "Modelica",
-    "category": "programming"
+    "category": "Programming"
   },
   "mod": {
     "name": "AMPL",
-    "category": "programming"
+    "category": "Programming"
   },
   "monkey": {
     "name": "Monkey",
-    "category": "programming"
+    "category": "Programming"
   },
   "moo": {
     "name": "Moocode",
-    "category": "programming"
+    "category": "Programming"
   },
   "moon": {
     "name": "MoonScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "ms": {
     "name": "MAXScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "mspec": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "mss": {
     "name": "CartoCSS",
-    "category": "programming"
+    "category": "Programming"
   },
   "mt": {
     "name": "Mathematica",
-    "category": "programming"
+    "category": "Programming"
   },
   "mtml": {
     "name": "MTML",
-    "category": "markup"
+    "category": "Markup"
   },
   "mu": {
     "name": "mupad",
-    "category": "programming"
+    "category": "Programming"
   },
   "muf": {
     "name": "MUF",
-    "category": "programming"
+    "category": "Programming"
   },
   "mumps": {
     "name": "M",
-    "category": "programming"
+    "category": "Programming"
   },
   "mustache": {
     "name": "HTML+Django",
-    "category": "markup"
+    "category": "Markup"
   },
   "mxml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "mxt": {
     "name": "Max",
-    "category": "programming"
+    "category": "Programming"
   },
   "myt": {
     "name": "Myghty",
-    "category": "programming"
+    "category": "Programming"
   },
   "n": {
     "name": "Nemerle",
-    "category": "programming"
+    "category": "Programming"
   },
   "nasm": {
     "name": "Assembly",
-    "category": "programming"
+    "category": "Programming"
   },
   "nawk": {
     "name": "Awk",
-    "category": "programming"
+    "category": "Programming"
   },
   "nb": {
     "name": "Mathematica",
-    "category": "programming"
+    "category": "Programming"
   },
   "nbp": {
     "name": "Mathematica",
-    "category": "programming"
+    "category": "Programming"
   },
   "nc": {
     "name": "nesC",
-    "category": "programming"
+    "category": "Programming"
   },
   "ncl": {
     "name": "NCL",
-    "category": "programming"
+    "category": "Programming"
   },
   "nginxconf": {
     "name": "Nginx",
-    "category": "markup"
+    "category": "Markup"
   },
   "ni": {
     "name": "Inform 7",
-    "category": "programming"
+    "category": "Programming"
   },
   "nim": {
     "name": "Nimrod",
-    "category": "programming"
+    "category": "Programming"
   },
   "nimrod": {
     "name": "Nimrod",
-    "category": "programming"
+    "category": "Programming"
   },
   "ninja": {
     "name": "Ninja",
-    "category": "data"
+    "category": "Data"
   },
   "nit": {
     "name": "Nit",
-    "category": "programming"
+    "category": "Programming"
   },
   "nix": {
     "name": "Nix",
-    "category": "programming"
+    "category": "Programming"
   },
   "njs": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "nl": {
     "name": "NewLisp",
-    "category": "programming"
+    "category": "Programming"
   },
   "nlogo": {
     "name": "NetLogo",
-    "category": "programming"
+    "category": "Programming"
   },
   "no": {
     "name": "Text",
-    "category": "prose"
+    "category": "Prose"
   },
   "nproj": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "nqp": {
     "name": "Perl6",
-    "category": "programming"
+    "category": "Programming"
   },
   "nse": {
     "name": "Lua",
-    "category": "programming"
+    "category": "Programming"
   },
   "nsh": {
     "name": "NSIS",
-    "category": "programming"
+    "category": "Programming"
   },
   "nsi": {
     "name": "NSIS",
-    "category": "programming"
+    "category": "Programming"
   },
   "nu": {
     "name": "Nu",
-    "category": "programming"
+    "category": "Programming"
   },
   "numpy": {
     "name": "NumPy",
-    "category": "programming"
+    "category": "Programming"
   },
   "numpyw": {
     "name": "NumPy",
-    "category": "programming"
+    "category": "Programming"
   },
   "numsc": {
     "name": "NumPy",
-    "category": "programming"
+    "category": "Programming"
   },
   "nuspec": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "nut": {
     "name": "Squirrel",
-    "category": "programming"
+    "category": "Programming"
   },
   "ny": {
     "name": "Common Lisp",
-    "category": "programming"
+    "category": "Programming"
   },
   "objdump": {
     "name": "ObjDump",
-    "category": "data"
+    "category": "Data"
   },
   "odd": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "omgrofl": {
     "name": "Omgrofl",
-    "category": "programming"
+    "category": "Programming"
   },
   "ooc": {
     "name": "ooc",
-    "category": "programming"
+    "category": "Programming"
   },
   "opa": {
     "name": "Opa",
-    "category": "programming"
+    "category": "Programming"
   },
   "opal": {
     "name": "Opal",
-    "category": "programming"
+    "category": "Programming"
   },
   "opencl": {
     "name": "OpenCL",
-    "category": "programming"
+    "category": "Programming"
   },
   "org": {
     "name": "Org",
-    "category": "prose"
+    "category": "Prose"
   },
   "osm": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "owl": {
     "name": "Web Ontology Language",
-    "category": "markup"
+    "category": "Markup"
   },
   "ox": {
     "name": "Ox",
-    "category": "programming"
+    "category": "Programming"
   },
   "oxh": {
     "name": "Ox",
-    "category": "programming"
+    "category": "Programming"
   },
   "oxo": {
     "name": "Ox",
-    "category": "programming"
+    "category": "Programming"
   },
   "oxygene": {
     "name": "Oxygene",
-    "category": "programming"
+    "category": "Programming"
   },
   "oz": {
     "name": "Oz",
-    "category": "programming"
+    "category": "Programming"
   },
   "p": {
     "name": "OpenEdge ABL",
-    "category": "programming"
+    "category": "Programming"
   },
   "p6": {
     "name": "Perl6",
-    "category": "programming"
+    "category": "Programming"
   },
   "p6l": {
     "name": "Perl6",
-    "category": "programming"
+    "category": "Programming"
   },
   "p6m": {
     "name": "Perl6",
-    "category": "programming"
+    "category": "Programming"
   },
   "pac": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "pan": {
     "name": "Pan",
-    "category": "programming"
+    "category": "Programming"
   },
   "parrot": {
     "name": "Parrot",
-    "category": "programming"
+    "category": "Programming"
   },
   "pas": {
     "name": "Pascal",
-    "category": "programming"
+    "category": "Programming"
   },
   "pasm": {
     "name": "Parrot Assembly",
-    "category": "programming"
+    "category": "Programming"
   },
   "pat": {
     "name": "Max",
-    "category": "programming"
+    "category": "Programming"
   },
   "patch": {
     "name": "Diff",
-    "category": "data"
+    "category": "Data"
   },
   "pb": {
     "name": "PureBasic",
-    "category": "programming"
+    "category": "Programming"
   },
   "pbi": {
     "name": "PureBasic",
-    "category": "programming"
+    "category": "Programming"
   },
   "pck": {
     "name": "PLSQL",
-    "category": "programming"
+    "category": "Programming"
   },
   "pd": {
     "name": "Pure Data",
-    "category": "programming"
+    "category": "Programming"
   },
   "pd_lua": {
     "name": "Lua",
-    "category": "programming"
+    "category": "Programming"
   },
   "pde": {
     "name": "Processing",
-    "category": "programming"
+    "category": "Programming"
   },
   "perl": {
     "name": "Perl",
-    "category": "programming"
+    "category": "Programming"
   },
   "ph": {
     "name": "Perl",
-    "category": "programming"
+    "category": "Programming"
   },
   "php": {
     "name": "PHP",
-    "category": "programming"
+    "category": "Programming"
   },
   "php3": {
     "name": "PHP",
-    "category": "programming"
+    "category": "Programming"
   },
   "php4": {
     "name": "PHP",
-    "category": "programming"
+    "category": "Programming"
   },
   "php5": {
     "name": "PHP",
-    "category": "programming"
+    "category": "Programming"
   },
   "phps": {
     "name": "PHP",
-    "category": "programming"
+    "category": "Programming"
   },
   "phpt": {
     "name": "PHP",
-    "category": "programming"
+    "category": "Programming"
   },
   "phtml": {
     "name": "HTML+PHP",
-    "category": "markup"
+    "category": "Markup"
   },
   "pig": {
     "name": "PigLatin",
-    "category": "programming"
+    "category": "Programming"
   },
   "pike": {
     "name": "Pike",
-    "category": "programming"
+    "category": "Programming"
   },
   "pir": {
     "name": "Parrot Internal Representation",
-    "category": "programming"
+    "category": "Programming"
   },
   "pkb": {
     "name": "PLSQL",
-    "category": "programming"
+    "category": "Programming"
   },
   "pkl": {
     "name": "Pickle",
-    "category": "data"
+    "category": "Data"
   },
   "pks": {
     "name": "PLSQL",
-    "category": "programming"
+    "category": "Programming"
   },
   "pl": {
     "name": "Perl",
-    "category": "programming"
+    "category": "Programming"
   },
   "pl6": {
     "name": "Perl6",
-    "category": "programming"
+    "category": "Programming"
   },
   "plb": {
     "name": "PLSQL",
-    "category": "programming"
+    "category": "Programming"
   },
   "plist": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "plot": {
     "name": "Gnuplot",
-    "category": "programming"
+    "category": "Programming"
   },
   "pls": {
     "name": "PLSQL",
-    "category": "programming"
+    "category": "Programming"
   },
   "plsql": {
     "name": "PLSQL",
-    "category": "programming"
+    "category": "Programming"
   },
   "plt": {
     "name": "Gnuplot",
-    "category": "programming"
+    "category": "Programming"
   },
   "pluginspec": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "plx": {
     "name": "Perl",
-    "category": "programming"
+    "category": "Programming"
   },
   "pm": {
     "name": "Perl",
-    "category": "programming"
+    "category": "Programming"
   },
   "pm6": {
     "name": "Perl6",
-    "category": "programming"
+    "category": "Programming"
   },
   "pmod": {
     "name": "Pike",
-    "category": "programming"
+    "category": "Programming"
   },
   "po": {
     "name": "Gettext Catalog",
-    "category": "prose"
+    "category": "Prose"
   },
   "pod": {
     "name": "Pod",
-    "category": "prose"
+    "category": "Prose"
   },
   "podsl": {
     "name": "Common Lisp",
-    "category": "programming"
+    "category": "Programming"
   },
   "podspec": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "pogo": {
     "name": "PogoScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "pony": {
     "name": "Pony",
-    "category": "programming"
+    "category": "Programming"
   },
   "pot": {
     "name": "Gettext Catalog",
-    "category": "prose"
+    "category": "Prose"
   },
   "pov": {
     "name": "POV-Ray SDL",
-    "category": "programming"
+    "category": "Programming"
   },
   "pp": {
     "name": "Pascal",
-    "category": "programming"
+    "category": "Programming"
   },
   "prc": {
     "name": "SQL",
-    "category": "data"
+    "category": "Data"
   },
   "prefab": {
     "name": "Unity3D Asset",
-    "category": "data"
+    "category": "Data"
   },
   "prefs": {
     "name": "INI",
-    "category": "data"
+    "category": "Data"
   },
   "prg": {
     "name": "xBase",
-    "category": "programming"
+    "category": "Programming"
   },
   "pri": {
     "name": "QMake",
-    "category": "programming"
+    "category": "Programming"
   },
   "pro": {
     "name": "QMake",
-    "category": "programming"
+    "category": "Programming"
   },
   "prolog": {
     "name": "Prolog",
-    "category": "programming"
+    "category": "Programming"
   },
   "properties": {
     "name": "INI",
-    "category": "data"
+    "category": "Data"
   },
   "props": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "proto": {
     "name": "Protocol Buffer",
-    "category": "markup"
+    "category": "Markup"
   },
   "prw": {
     "name": "xBase",
-    "category": "programming"
+    "category": "Programming"
   },
   "ps": {
     "name": "PostScript",
-    "category": "markup"
+    "category": "Markup"
   },
   "ps1": {
     "name": "PowerShell",
-    "category": "programming"
+    "category": "Programming"
   },
   "ps1xml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "psc": {
     "name": "Papyrus",
-    "category": "programming"
+    "category": "Programming"
   },
   "psc1": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "psd1": {
     "name": "PowerShell",
-    "category": "programming"
+    "category": "Programming"
   },
   "psgi": {
     "name": "Perl",
-    "category": "programming"
+    "category": "Programming"
   },
   "psm1": {
     "name": "PowerShell",
-    "category": "programming"
+    "category": "Programming"
   },
   "pt": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "pub": {
     "name": "Public Key",
-    "category": "data"
+    "category": "Data"
   },
   "purs": {
     "name": "PureScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "pwn": {
     "name": "PAWN",
-    "category": "programming"
+    "category": "Programming"
   },
   "pxd": {
     "name": "Cython",
-    "category": "programming"
+    "category": "Programming"
   },
   "pxi": {
     "name": "Cython",
-    "category": "programming"
+    "category": "Programming"
   },
   "py": {
     "name": "Python",
-    "category": "programming"
+    "category": "Programming"
   },
   "pyde": {
     "name": "Python",
-    "category": "programming"
+    "category": "Programming"
   },
   "pyp": {
     "name": "Python",
-    "category": "programming"
+    "category": "Programming"
   },
   "pyt": {
     "name": "Python",
-    "category": "programming"
+    "category": "Programming"
   },
   "pytb": {
     "name": "Python traceback",
-    "category": "data"
+    "category": "Data"
   },
   "pyw": {
     "name": "Python",
-    "category": "programming"
+    "category": "Programming"
   },
   "pyx": {
     "name": "Cython",
-    "category": "programming"
+    "category": "Programming"
   },
   "qbs": {
     "name": "QML",
-    "category": "programming"
+    "category": "Programming"
   },
   "qml": {
     "name": "QML",
-    "category": "programming"
+    "category": "Programming"
   },
   "r": {
     "name": "R",
-    "category": "programming"
+    "category": "Programming"
   },
   "r2": {
     "name": "Rebol",
-    "category": "programming"
+    "category": "Programming"
   },
   "r3": {
     "name": "Rebol",
-    "category": "programming"
+    "category": "Programming"
   },
   "rabl": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "rake": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "raml": {
     "name": "RAML",
-    "category": "markup"
+    "category": "Markup"
   },
   "raw": {
-    "name": "Raw token data",
-    "category": "data"
+    "name": "Raw token Data",
+    "category": "Data"
   },
   "rb": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "rbbas": {
     "name": "REALbasic",
-    "category": "programming"
+    "category": "Programming"
   },
   "rbfrm": {
     "name": "REALbasic",
-    "category": "programming"
+    "category": "Programming"
   },
   "rbmnu": {
     "name": "REALbasic",
-    "category": "programming"
+    "category": "Programming"
   },
   "rbres": {
     "name": "REALbasic",
-    "category": "programming"
+    "category": "Programming"
   },
   "rbtbar": {
     "name": "REALbasic",
-    "category": "programming"
+    "category": "Programming"
   },
   "rbuild": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "rbuistate": {
     "name": "REALbasic",
-    "category": "programming"
+    "category": "Programming"
   },
   "rbw": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "rbx": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "rbxs": {
     "name": "Lua",
-    "category": "programming"
+    "category": "Programming"
   },
   "rd": {
     "name": "R",
-    "category": "programming"
+    "category": "Programming"
   },
   "rdf": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "rdoc": {
     "name": "RDoc",
-    "category": "prose"
+    "category": "Prose"
   },
   "reb": {
     "name": "Rebol",
-    "category": "programming"
+    "category": "Programming"
   },
   "rebol": {
     "name": "Rebol",
-    "category": "programming"
+    "category": "Programming"
   },
   "red": {
     "name": "Red",
-    "category": "programming"
+    "category": "Programming"
   },
   "reds": {
     "name": "Red",
-    "category": "programming"
+    "category": "Programming"
   },
   "reek": {
     "name": "YAML",
-    "category": "data"
+    "category": "Data"
   },
   "rest": {
     "name": "reStructuredText",
-    "category": "prose"
+    "category": "Prose"
   },
   "rg": {
     "name": "Rouge",
-    "category": "programming"
+    "category": "Programming"
   },
   "rhtml": {
     "name": "RHTML",
-    "category": "markup"
+    "category": "Markup"
   },
   "rkt": {
     "name": "Racket",
-    "category": "programming"
+    "category": "Programming"
   },
   "rktd": {
     "name": "Racket",
-    "category": "programming"
+    "category": "Programming"
   },
   "rktl": {
     "name": "Racket",
-    "category": "programming"
+    "category": "Programming"
   },
   "rl": {
     "name": "Ragel in Ruby Host",
-    "category": "programming"
+    "category": "Programming"
   },
   "rmd": {
     "name": "RMarkdown",
-    "category": "prose"
+    "category": "Prose"
   },
   "rno": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "robot": {
     "name": "RobotFramework",
-    "category": "programming"
+    "category": "Programming"
   },
   "roff": {
     "name": "Groff",
-    "category": "markup"
+    "category": "Markup"
   },
   "ron": {
     "name": "Markdown",
-    "category": "prose"
+    "category": "Prose"
   },
   "rpy": {
     "name": "Python",
-    "category": "programming"
+    "category": "Programming"
   },
   "rq": {
     "name": "SPARQL",
-    "category": "data"
+    "category": "Data"
   },
   "rs": {
     "name": "Rust",
-    "category": "programming"
+    "category": "Programming"
   },
   "rsh": {
     "name": "RenderScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "rss": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "rst": {
     "name": "reStructuredText",
-    "category": "prose"
+    "category": "Prose"
   },
   "rsx": {
     "name": "R",
-    "category": "programming"
+    "category": "Programming"
   },
   "ru": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "ruby": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "rviz": {
     "name": "YAML",
-    "category": "data"
+    "category": "Data"
   },
   "s": {
     "name": "GAS",
-    "category": "programming"
+    "category": "Programming"
   },
   "sage": {
     "name": "Sage",
-    "category": "programming"
+    "category": "Programming"
   },
   "sagews": {
     "name": "Sage",
-    "category": "programming"
+    "category": "Programming"
   },
   "sas": {
     "name": "SAS",
-    "category": "programming"
+    "category": "Programming"
   },
   "sass": {
     "name": "Sass",
-    "category": "markup"
+    "category": "Markup"
   },
   "sats": {
     "name": "ATS",
-    "category": "programming"
+    "category": "Programming"
   },
   "sbt": {
     "name": "Scala",
-    "category": "programming"
+    "category": "Programming"
   },
   "sc": {
     "name": "SuperCollider",
-    "category": "programming"
+    "category": "Programming"
   },
   "scad": {
     "name": "OpenSCAD",
-    "category": "programming"
+    "category": "Programming"
   },
   "scala": {
     "name": "Scala",
-    "category": "programming"
+    "category": "Programming"
   },
   "scaml": {
     "name": "Scaml",
-    "category": "markup"
+    "category": "Markup"
   },
   "scd": {
     "name": "SuperCollider",
-    "category": "programming"
+    "category": "Programming"
   },
   "sce": {
     "name": "Scilab",
-    "category": "programming"
+    "category": "Programming"
   },
   "sch": {
     "name": "Eagle",
-    "category": "markup"
+    "category": "Markup"
   },
   "sci": {
     "name": "Scilab",
-    "category": "programming"
+    "category": "Programming"
   },
   "scm": {
     "name": "Scheme",
-    "category": "programming"
+    "category": "Programming"
   },
   "scpt": {
     "name": "AppleScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "scrbl": {
     "name": "Racket",
-    "category": "programming"
+    "category": "Programming"
   },
   "scss": {
     "name": "SCSS",
-    "category": "markup"
+    "category": "Markup"
   },
   "scxml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "self": {
     "name": "Self",
-    "category": "programming"
+    "category": "Programming"
   },
   "sexp": {
     "name": "Common Lisp",
-    "category": "programming"
+    "category": "Programming"
   },
   "sh": {
     "name": "Shell",
-    "category": "programming"
+    "category": "Programming"
   },
   "sh-session": {
     "name": "ShellSession",
-    "category": "programming"
+    "category": "Programming"
   },
   "shader": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "shen": {
     "name": "Shen",
-    "category": "programming"
+    "category": "Programming"
   },
   "sig": {
     "name": "Standard ML",
-    "category": "programming"
+    "category": "Programming"
   },
   "sj": {
     "name": "Objective-J",
-    "category": "programming"
+    "category": "Programming"
   },
   "sjs": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sl": {
     "name": "Slash",
-    "category": "programming"
+    "category": "Programming"
   },
   "sld": {
     "name": "Scheme",
-    "category": "programming"
+    "category": "Programming"
   },
   "slim": {
     "name": "Slim",
-    "category": "markup"
+    "category": "Markup"
   },
   "sls": {
     "name": "SaltStack",
-    "category": "programming"
+    "category": "Programming"
   },
   "sma": {
     "name": "SourcePawn",
-    "category": "programming"
+    "category": "Programming"
   },
   "smali": {
     "name": "Smali",
-    "category": "programming"
+    "category": "Programming"
   },
   "sml": {
     "name": "Standard ML",
-    "category": "programming"
+    "category": "Programming"
   },
   "smt": {
     "name": "SMT",
-    "category": "programming"
+    "category": "Programming"
   },
   "smt2": {
     "name": "SMT",
-    "category": "programming"
+    "category": "Programming"
   },
   "sp": {
     "name": "SourcePawn",
-    "category": "programming"
+    "category": "Programming"
   },
   "sparql": {
     "name": "SPARQL",
-    "category": "data"
+    "category": "Data"
   },
   "spin": {
     "name": "Propeller Spin",
-    "category": "programming"
+    "category": "Programming"
   },
   "sps": {
     "name": "Scheme",
-    "category": "programming"
+    "category": "Programming"
   },
   "sqf": {
     "name": "SQF",
-    "category": "programming"
+    "category": "Programming"
   },
   "sql": {
     "name": "SQL",
-    "category": "programming"
+    "category": "Programming"
   },
   "srdf": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "ss": {
     "name": "Scheme",
-    "category": "programming"
+    "category": "Programming"
   },
   "ssjs": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "st": {
     "name": "Smalltalk",
-    "category": "programming"
+    "category": "Programming"
   },
   "stTheme": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "stan": {
     "name": "Stan",
-    "category": "programming"
+    "category": "Programming"
   },
   "sthlp": {
     "name": "Stata",
-    "category": "programming"
+    "category": "Programming"
   },
   "ston": {
     "name": "STON",
-    "category": "data"
+    "category": "Data"
   },
   "storyboard": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "sty": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "styl": {
     "name": "Stylus",
-    "category": "markup"
+    "category": "Markup"
   },
   "sublime-build": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sublime-commands": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sublime-completions": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sublime-keymap": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sublime-macro": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sublime-menu": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sublime-mousemap": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sublime-project": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sublime-settings": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sublime-snippet": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "sublime-syntax": {
     "name": "YAML",
-    "category": "data"
+    "category": "Data"
   },
   "sublime-theme": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sublime-workspace": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sublime_metrics": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sublime_session": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "sv": {
     "name": "SystemVerilog",
-    "category": "programming"
+    "category": "Programming"
   },
   "svg": {
     "name": "SVG",
-    "category": "data"
+    "category": "Data"
   },
   "svh": {
     "name": "SystemVerilog",
-    "category": "programming"
+    "category": "Programming"
   },
   "swift": {
     "name": "Swift",
-    "category": "programming"
+    "category": "Programming"
   },
   "syntax": {
     "name": "YAML",
-    "category": "data"
+    "category": "Data"
   },
   "t": {
     "name": "Turing",
-    "category": "programming"
+    "category": "Programming"
   },
   "tab": {
     "name": "SQL",
-    "category": "data"
+    "category": "Data"
   },
   "tac": {
     "name": "Python",
-    "category": "programming"
+    "category": "Programming"
   },
   "targets": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "tcc": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "tcl": {
     "name": "Tcl",
-    "category": "programming"
+    "category": "Programming"
   },
   "tcsh": {
     "name": "Tcsh",
-    "category": "programming"
+    "category": "Programming"
   },
   "tea": {
     "name": "Tea",
-    "category": "markup"
+    "category": "Markup"
   },
   "tex": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "textile": {
     "name": "Textile",
-    "category": "prose"
+    "category": "Prose"
   },
   "tf": {
     "name": "HCL",
-    "category": "programming"
+    "category": "Programming"
   },
   "thor": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "thrift": {
     "name": "Thrift",
-    "category": "programming"
+    "category": "Programming"
   },
   "thy": {
     "name": "Isabelle",
-    "category": "programming"
+    "category": "Programming"
   },
   "tm": {
     "name": "Tcl",
-    "category": "programming"
+    "category": "Programming"
   },
   "tmCommand": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "tmLanguage": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "tmPreferences": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "tmSnippet": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "tmTheme": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "tml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "tmux": {
     "name": "Shell",
-    "category": "programming"
+    "category": "Programming"
   },
   "toc": {
     "name": "TeX",
-    "category": "markup"
+    "category": "Markup"
   },
   "toml": {
     "name": "TOML",
-    "category": "data"
+    "category": "Data"
   },
   "tool": {
     "name": "Shell",
-    "category": "programming"
+    "category": "Programming"
   },
   "topojson": {
     "name": "JSON",
-    "category": "data"
+    "category": "Data"
   },
   "tpl": {
     "name": "Smarty",
-    "category": "programming"
+    "category": "Programming"
   },
   "tpp": {
     "name": "C++",
-    "category": "programming"
+    "category": "Programming"
   },
   "ts": {
     "name": "TypeScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "tst": {
     "name": "GAP",
-    "category": "programming"
+    "category": "Programming"
   },
   "tsx": {
     "name": "TypeScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "ttl": {
     "name": "Turtle",
-    "category": "data"
+    "category": "Data"
   },
   "tu": {
     "name": "Turing",
-    "category": "programming"
+    "category": "Programming"
   },
   "twig": {
     "name": "Twig",
-    "category": "markup"
+    "category": "Markup"
   },
   "txl": {
     "name": "TXL",
-    "category": "programming"
+    "category": "Programming"
   },
   "txt": {
     "name": "Text",
-    "category": "prose"
+    "category": "Prose"
   },
   "uc": {
     "name": "UnrealScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "udf": {
     "name": "SQL",
-    "category": "data"
+    "category": "Data"
   },
   "ui": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "unity": {
     "name": "Unity3D Asset",
-    "category": "data"
+    "category": "Data"
   },
   "uno": {
     "name": "Uno",
-    "category": "programming"
+    "category": "Programming"
   },
   "upc": {
     "name": "Unified Parallel C",
-    "category": "programming"
+    "category": "Programming"
   },
   "ur": {
     "name": "UrWeb",
-    "category": "programming"
+    "category": "Programming"
   },
   "urdf": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "urs": {
     "name": "UrWeb",
-    "category": "programming"
+    "category": "Programming"
   },
   "ux": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "v": {
     "name": "Verilog",
-    "category": "programming"
+    "category": "Programming"
   },
   "vala": {
     "name": "Vala",
-    "category": "programming"
+    "category": "Programming"
   },
   "vapi": {
     "name": "Vala",
-    "category": "programming"
+    "category": "Programming"
   },
   "vark": {
     "name": "Gosu",
-    "category": "programming"
+    "category": "Programming"
   },
   "vb": {
     "name": "Visual Basic",
-    "category": "programming"
+    "category": "Programming"
   },
   "vba": {
     "name": "Visual Basic",
-    "category": "programming"
+    "category": "Programming"
   },
   "vbhtml": {
     "name": "Visual Basic",
-    "category": "programming"
+    "category": "Programming"
   },
   "vbproj": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "vbs": {
     "name": "Visual Basic",
-    "category": "programming"
+    "category": "Programming"
   },
   "vcl": {
     "name": "VCL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vcxproj": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "veo": {
     "name": "Verilog",
-    "category": "programming"
+    "category": "Programming"
   },
   "vert": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vh": {
     "name": "SystemVerilog",
-    "category": "programming"
+    "category": "Programming"
   },
   "vhd": {
     "name": "VHDL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vhdl": {
     "name": "VHDL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vhf": {
     "name": "VHDL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vhi": {
     "name": "VHDL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vho": {
     "name": "VHDL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vhost": {
     "name": "Nginx",
-    "category": "markup"
+    "category": "Markup"
   },
   "vhs": {
     "name": "VHDL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vht": {
     "name": "VHDL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vhw": {
     "name": "VHDL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vim": {
     "name": "VimL",
-    "category": "programming"
+    "category": "Programming"
   },
   "viw": {
     "name": "SQL",
-    "category": "data"
+    "category": "Data"
   },
   "volt": {
     "name": "Volt",
-    "category": "programming"
+    "category": "Programming"
   },
   "vrx": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vsh": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vshader": {
     "name": "GLSL",
-    "category": "programming"
+    "category": "Programming"
   },
   "vssettings": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "vue": {
     "name": "Vue",
-    "category": "markup"
+    "category": "Markup"
   },
   "vxml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "w": {
     "name": "C",
-    "category": "programming"
+    "category": "Programming"
   },
   "watchr": {
     "name": "Ruby",
-    "category": "programming"
+    "category": "Programming"
   },
   "webidl": {
     "name": "WebIDL",
-    "category": "programming"
+    "category": "Programming"
   },
   "weechatlog": {
     "name": "IRC log",
-    "category": "data"
+    "category": "Data"
   },
   "wiki": {
     "name": "MediaWiki",
-    "category": "prose"
+    "category": "Prose"
   },
   "wisp": {
     "name": "wisp",
-    "category": "programming"
+    "category": "Programming"
   },
   "wl": {
     "name": "Mathematica",
-    "category": "programming"
+    "category": "Programming"
   },
   "wlt": {
     "name": "Mathematica",
-    "category": "programming"
+    "category": "Programming"
   },
   "wlua": {
     "name": "Lua",
-    "category": "programming"
+    "category": "Programming"
   },
   "wsdl": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "wsf": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "wsgi": {
     "name": "Python",
-    "category": "programming"
+    "category": "Programming"
   },
   "wxi": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "wxl": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "wxs": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "x": {
     "name": "Logos",
-    "category": "programming"
+    "category": "Programming"
   },
   "x10": {
     "name": "X10",
-    "category": "programming"
+    "category": "Programming"
   },
   "x3d": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "xacro": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "xaml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "xc": {
     "name": "XC",
-    "category": "programming"
+    "category": "Programming"
   },
   "xht": {
     "name": "HTML",
-    "category": "markup"
+    "category": "Markup"
   },
   "xhtml": {
     "name": "HTML",
-    "category": "markup"
+    "category": "Markup"
   },
   "xi": {
     "name": "Logos",
-    "category": "programming"
+    "category": "Programming"
   },
   "xib": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "xlf": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "xliff": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "xm": {
     "name": "Logos",
-    "category": "programming"
+    "category": "Programming"
   },
   "xmi": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "xml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "xojo_code": {
     "name": "Xojo",
-    "category": "programming"
+    "category": "Programming"
   },
   "xojo_menu": {
     "name": "Xojo",
-    "category": "programming"
+    "category": "Programming"
   },
   "xojo_report": {
     "name": "Xojo",
-    "category": "programming"
+    "category": "Programming"
   },
   "xojo_script": {
     "name": "Xojo",
-    "category": "programming"
+    "category": "Programming"
   },
   "xojo_toolbar": {
     "name": "Xojo",
-    "category": "programming"
+    "category": "Programming"
   },
   "xojo_window": {
     "name": "Xojo",
-    "category": "programming"
+    "category": "Programming"
   },
   "xpl": {
     "name": "XProc",
-    "category": "programming"
+    "category": "Programming"
   },
   "xproc": {
     "name": "XProc",
-    "category": "programming"
+    "category": "Programming"
   },
   "xproj": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "xpy": {
     "name": "Python",
-    "category": "programming"
+    "category": "Programming"
   },
   "xq": {
     "name": "XQuery",
-    "category": "programming"
+    "category": "Programming"
   },
   "xql": {
     "name": "XQuery",
-    "category": "programming"
+    "category": "Programming"
   },
   "xqm": {
     "name": "XQuery",
-    "category": "programming"
+    "category": "Programming"
   },
   "xquery": {
     "name": "XQuery",
-    "category": "programming"
+    "category": "Programming"
   },
   "xqy": {
     "name": "XQuery",
-    "category": "programming"
+    "category": "Programming"
   },
   "xrl": {
     "name": "Erlang",
-    "category": "programming"
+    "category": "Programming"
   },
   "xs": {
     "name": "XS",
-    "category": "programming"
+    "category": "Programming"
   },
   "xsd": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "xsjs": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "xsjslib": {
     "name": "JavaScript",
-    "category": "programming"
+    "category": "Programming"
   },
   "xsl": {
     "name": "XSLT",
-    "category": "programming"
+    "category": "Programming"
   },
   "xslt": {
     "name": "XSLT",
-    "category": "programming"
+    "category": "Programming"
   },
   "xsp-config": {
     "name": "XPages",
-    "category": "programming"
+    "category": "Programming"
   },
   "xtend": {
     "name": "Xtend",
-    "category": "programming"
+    "category": "Programming"
   },
   "xul": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "y": {
     "name": "Yacc",
-    "category": "programming"
+    "category": "Programming"
   },
   "yacc": {
     "name": "Yacc",
-    "category": "programming"
+    "category": "Programming"
   },
   "yaml": {
     "name": "YAML",
-    "category": "data"
+    "category": "Data"
   },
   "yaml-tmlanguage": {
     "name": "YAML",
-    "category": "data"
+    "category": "Data"
   },
   "yang": {
     "name": "YANG",
-    "category": "data"
+    "category": "Data"
   },
   "yap": {
     "name": "Prolog",
-    "category": "programming"
+    "category": "Programming"
   },
   "yml": {
     "name": "YAML",
-    "category": "data"
+    "category": "Data"
   },
   "yrl": {
     "name": "Erlang",
-    "category": "programming"
+    "category": "Programming"
   },
   "yy": {
     "name": "Yacc",
-    "category": "programming"
+    "category": "Programming"
   },
   "zcml": {
     "name": "XML",
-    "category": "data"
+    "category": "Data"
   },
   "zep": {
     "name": "Zephir",
-    "category": "programming"
+    "category": "Programming"
   },
   "zimpl": {
     "name": "Zimpl",
-    "category": "programming"
+    "category": "Programming"
   },
   "zmpl": {
     "name": "Zimpl",
-    "category": "programming"
+    "category": "Programming"
   },
   "zone": {
     "name": "DNS Zone",
-    "category": "data"
+    "category": "Data"
   },
   "zpl": {
     "name": "Zimpl",
-    "category": "programming"
+    "category": "Programming"
   },
   "zsh": {
     "name": "Shell",
-    "category": "programming"
+    "category": "Programming"
   }
 }

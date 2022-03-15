@@ -1,13 +1,13 @@
 use crate::arg_parser::Args;
 use crate::arg_parser::OrDefault;
 use crate::file_collector::FileExtension::{Extension, Path};
-use crate::language_file_extensions::LANGS;
+use crate::language_file_extensions::Langs;
 use crate::types::*;
 use std::collections::HashMap;
 
 #[derive(Debug)]
 pub struct Stats {
-    pub langs: HashMap<&'static str, i64>,
+    pub langs: HashMap<String, i64>,
     pub total: usize,
 }
 
@@ -20,7 +20,7 @@ impl Stats {
     }
 }
 
-pub fn run(args: Args, files: Files) -> Stats {
+pub fn run(args: Args, langs: Langs, files: Files) -> Stats {
     let mut stats: Stats = Stats::new(files.len());
     let types = args.types_or_default();
     let ignore = args.ignore_or_default();
@@ -28,13 +28,17 @@ pub fn run(args: Args, files: Files) -> Stats {
         match file {
             Extension(ext) => {
                 if !ignore.contains(&ext) {
-                    match LANGS.get(ext.as_str()) {
+                    match langs.get(ext.as_str()) {
                         Some(lang) => {
                             if types.contains(&lang.category) {
-                                *stats.langs.entry(lang.name).or_insert(0) += 1
+                                if stats.langs.contains_key(&lang.name) {
+                                    *stats.langs.get_mut(&lang.name).expect("internal error") += 1;
+                                } else {
+                                    stats.langs.insert(lang.name.clone(), 1);
+                                }
                             }
                         }
-                        None => *stats.langs.entry("Unknonw").or_insert(0) += 1,
+                        None => *stats.langs.entry("Unknonw".to_string()).or_insert(0) += 1,
                     }
                 }
             }

@@ -24,6 +24,6 @@ pub fn run(dir: &String) -> ProjResult<Vec<FileExtension>> {
             })
             .collect())
     } else {
-        Err("provided directory does not exist".to_string())
+        Err("provided directory does not exist")
     }
 }
