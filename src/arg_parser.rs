@@ -13,9 +13,13 @@ pub enum FileType {
 #[derive(Parser)]
 #[clap(author, version, about, long_about = None)]
 pub struct Args {
-    /// Do not use gitignroe
-    #[clap(short = 'n', long = "no-ignore")]
-    pub no_gitignore: bool,
+    /// Do not use git even if the directoryis a dir repository
+    #[clap(long = "no-git")]
+    pub no_git: bool,
+
+    /// Do not skip hidden/dot directories
+    #[clap(long = "no-skip-dots")]
+    pub no_skip_dots: bool,
 
     /// List of extensions to ignore.
     /// You can pass list as a single comma-separated list,
