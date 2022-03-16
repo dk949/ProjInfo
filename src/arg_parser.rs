@@ -23,9 +23,8 @@ pub struct Args {
     #[clap(long = "no-skip-dots")]
     pub no_skip_dots: bool,
 
-    /// List of files or directories to ignore
-    /// You can pass list as a single comma-separated list,
-    /// or by using the flag multiple times.
+    /// List of files or directories to ignore. Specify multiple
+    /// directories by using the flag multiple times.
     #[clap(short, long)]
     pub ignore: Option<Vec<String>>,
 

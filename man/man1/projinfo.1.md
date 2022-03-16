@@ -36,8 +36,8 @@ On MacOs $HOME/Library/Preferences
 : Print help information
 
 **-i**, **--ignore** <IGNORE>
-: List of files or directories to ignore You can pass list as a single
- comma-separated list, or by using the flag multiple times.
+: List of files or directories to ignore. Specify multiple directories
+ by using the flag multiple times.
 
 **-m**, **--most** <MOST>
 : Maximum number of entries to show. (default: 5)
