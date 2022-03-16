@@ -12,9 +12,17 @@ Requires the rust tool chain and make. Requires pandoc to build the manpage.
 Set the `NOMAN` environment variable variable to build without the manpage.
 
 ``` sh
-make options # check if install, manpage and config directories are set right
-make         # or NOMAN=1 make
+make options
+make
 sudo make install
+```
+
+Or to avoid building the manpage
+
+``` sh
+NOMAN=1 make options
+NOMAN=1 make
+sudo NOMAN=1 make install
 ```
 
 ## Platforms
