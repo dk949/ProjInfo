@@ -12,7 +12,8 @@ pub fn print(args: &Args, stats: Stats) -> ProjResult<()> {
     langs.sort_by(|a, b| a.1.cmp(b.1).reverse());
     let mut num_shown = 0;
     let mut other_count = 0;
-    let mut unknown = (false, String::new());
+    let mut unknown: Option<String> = None;
+    let mut not_included: Option<String> = None;
 
     println!("╭─{title:─<titleWidth$}─╮", titleWidth = MAX_WITH);
     for (language, count) in langs {
@@ -20,35 +21,41 @@ pub fn print(args: &Args, stats: Stats) -> ProjResult<()> {
             other_count += count;
         } else {
             let percentage = format!("{:.2}%", ((*count as f32) / (stats.total as f32)) * 100.);
-            if language == "Unknown" {
-                unknown = (
-                    true,
-                    format!(
+            match language.as_ref() {
+                "Unknown" => {
+                    unknown = Some(format!(
                         "│ {language}: {percentage: <langWidth$}│",
                         langWidth = MAX_WITH - (language.len()) - 1
-                    ),
-                );
-            } else {
-                println!(
+                    ))
+                }
+                "Not included" => {
+                    not_included = Some(format!(
+                        "│ {language}: {percentage: <langWidth$}│",
+                        langWidth = MAX_WITH - (language.len()) - 1
+                    ))
+                }
+                language => println!(
                     "│ {language}: {percentage: <langWidth$}│",
                     langWidth = MAX_WITH - (language.len()) - 1
-                );
+                ),
             }
         }
         num_shown += 1;
     }
 
     if other_count > 0 {
-        let percentage = format!("{:.2}%", ((other_count as f32) / (stats.total as f32)) * 100.);
+        let percentage = format!(
+            "{:.2}%",
+            ((other_count as f32) / (stats.total as f32)) * 100.
+        );
         println!(
             "│ Other: {percentage: <width$}│",
             width = MAX_WITH - ("Other").len() - 1
         );
     }
 
-    if unknown.0 {
-        println!("{}", unknown.1);
-    }
+    unknown.map(|u| println!("{}", u));
+    not_included.map(|n| println!("{}", n));
 
     println!("│ {SPACE: <spacerWidth$} │", spacerWidth = MAX_WITH);
     println!(
